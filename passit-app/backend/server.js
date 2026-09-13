@@ -22,7 +22,9 @@ app.get('/api/health', (req, res) => {
 });
 
 app.use(express.static(path.join(__dirname, 'dist')));
-app.get('/*', (req, res) => {
+
+// Fallback for SPA: Use middleware instead of app.get('*') to avoid path-to-regexp issues
+app.use((req, res) => {
   res.sendFile(path.join(__dirname, 'dist/index.html'));
 });
 
