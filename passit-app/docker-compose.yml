@@ -1,0 +1,6 @@
+services:
+  passit:
+    image: ghcr.io/clemoseitano/passit-app:latest
+    ports:
+      - "5001:5001"
+    restart: always

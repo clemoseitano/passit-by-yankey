@@ -1,0 +1,454 @@
+[
+  {
+    "id": 1,
+    "section": "Section A",
+    "instruction": "Choose from the options A to D, the one which correctly answers the question.",
+    "preamble": "",
+    "question": "The plan of a cylinder is a",
+    "options": {
+      "A": "circle.",
+      "B": "rectangle.",
+      "C": "square.",
+      "D": "triangle."
+    },
+    "answer": "A",
+    "explanation": "The plan of a shape is what you see when you look at it from directly above. If you look down at a cylinder like a tin of Milo from the top, you see a circle."
+  },
+  {
+    "id": 2,
+    "section": "Section A",
+    "instruction": "Choose from the options A to D, the one which correctly answers the question.",
+    "preamble": "",
+    "question": "The first stage of the design process is",
+    "options": {
+      "A": "brief.",
+      "B": "evaluation.",
+      "C": "situation.",
+      "D": "specification."
+    },
+    "answer": "C",
+    "explanation": "The design process starts with the situation — identifying the problem or need that exists. Before you design anything, you must first understand what problem you are solving."
+  },
+  {
+    "id": 3,
+    "section": "Section A",
+    "instruction": "Study the diagram of the block below, then answer the question.",
+    "preamble": "",
+    "image": "bdt_2019_fig01.png",
+    "question": "Which of the following represents the front view in the direction of arrow Z?",
+    "options": {
+      "A": "Option A (see diagram)",
+      "B": "Option B (see diagram)",
+      "C": "Option C (see diagram)",
+      "D": "Option D (see diagram)"
+    },
+    "answer": "C",
+    "explanation": "The front view in the direction of arrow Z shows what you see when looking at the block from the front. Based on the block diagram, the correct front view is option C."
+  },
+  {
+    "id": 4,
+    "section": "Section A",
+    "instruction": "Study the diagram of the block below, then answer the question.",
+    "preamble": "",
+    "image": "bdt_2019_fig01.png",
+    "question": "Which of the following represents the right end elevation?",
+    "options": {
+      "A": "Option A (see diagram)",
+      "B": "Option B (see diagram)",
+      "C": "Option C (see diagram)",
+      "D": "Option D (see diagram)"
+    },
+    "answer": "A",
+    "explanation": "The right end elevation is what you see when you look at the block from the right side. Based on the block diagram, the correct right end elevation is option A."
+  },
+  {
+    "id": 5,
+    "section": "Section A",
+    "instruction": "Choose from the options A to D, the one which correctly answers the question.",
+    "preamble": "",
+    "question": "In the design process, the selected idea is developed in order to",
+    "options": {
+      "A": "determine the cost.",
+      "B": "evaluate final product.",
+      "C": "improve upon it.",
+      "D": "reduce its beauty."
+    },
+    "answer": "C",
+    "explanation": "After selecting the best idea, you develop it further to improve upon it — making it better, more detailed and more practical."
+  },
+  {
+    "id": 6,
+    "section": "Section A",
+    "instruction": "Choose from the options A to D, the one which correctly answers the question.",
+    "preamble": "",
+    "question": "The most suitable pencil for drawing construction lines is",
+    "options": {
+      "A": "B.",
+      "B": "HB.",
+      "C": "2B.",
+      "D": "2H."
+    },
+    "answer": "D",
+    "explanation": "2H is a very hard pencil that makes light thin lines — perfect for construction lines which are meant to be faint guides you can erase later."
+  },
+  {
+    "id": 7,
+    "section": "Section A",
+    "instruction": "Choose from the options A to D, the one which correctly answers the question.",
+    "preamble": "",
+    "question": "A common method of cooking used for most Ghanaian staple foods is",
+    "options": {
+      "A": "steaming.",
+      "B": "boiling.",
+      "C": "frying.",
+      "D": "stewing."
+    },
+    "answer": "B",
+    "explanation": "Boiling is the most common cooking method for Ghanaian staple foods. Foods like yam, plantain, cocoyam, rice and cassava are all commonly boiled — simple and widely used across Ghana."
+  },
+  {
+    "id": 8,
+    "section": "Section A",
+    "instruction": "Choose from the options A to D, the one which correctly answers the question.",
+    "preamble": "",
+    "question": "A seam that is often used for outer garment is",
+    "options": {
+      "A": "plain seam.",
+      "B": "French seam.",
+      "C": "Machine felled seam.",
+      "D": "Overlaid seam."
+    },
+    "answer": "A",
+    "explanation": "A plain seam is the most basic and common type of seam, widely used for outer garments like dresses, shirts and trousers."
+  },
+  {
+    "id": 9,
+    "section": "Section A",
+    "instruction": "Choose from the options A to D, the one which correctly answers the question.",
+    "preamble": "",
+    "question": "When setting a table, the first course cutlery should be placed",
+    "options": {
+      "A": "at the top edge of the dinner plate.",
+      "B": "on the dinner plate.",
+      "C": "near the dinner plate.",
+      "D": "further away from the dinner plate."
+    },
+    "answer": "D",
+    "explanation": "When setting a table formally, cutlery is placed from the outside in. The cutlery you use first goes furthest from the plate."
+  },
+  {
+    "id": 10,
+    "section": "Section A",
+    "instruction": "Choose from the options A to D, the one which correctly answers the question.",
+    "preamble": "",
+    "question": "Stranded cotton thread is used for",
+    "options": {
+      "A": "decorative stitches.",
+      "B": "neatening seams.",
+      "C": "joining seams.",
+      "D": "temporary stitches."
+    },
+    "answer": "A",
+    "explanation": "Stranded cotton thread comes in many beautiful colours and is used for decorative stitches — adding patterns and designs to fabric."
+  },
+  {
+    "id": 11,
+    "section": "Section A",
+    "instruction": "Choose from the options A to D, the one which correctly answers the question.",
+    "preamble": "",
+    "question": "Red, Orange and violet are",
+    "options": {
+      "A": "warm colours.",
+      "B": "cool colours.",
+      "C": "opposite colours.",
+      "D": "neutral colours."
+    },
+    "answer": "A",
+    "explanation": "Warm colours remind us of heat, fire and the sun — red, orange and yellow. Red and orange are clearly warm colours."
+  },
+  {
+    "id": 12,
+    "section": "Section A",
+    "instruction": "Choose from the options A to D, the one which correctly answers the question.",
+    "preamble": "",
+    "question": "The inscription BB on a pencil indicates that, it",
+    "options": {
+      "A": "is hard.",
+      "B": "is soft.",
+      "C": "breaks easily.",
+      "D": "sharpens well."
+    },
+    "answer": "B",
+    "explanation": "On a pencil, B stands for Black which means soft and H stands for Hard. BB means double black — very soft and dark."
+  },
+  {
+    "id": 13,
+    "section": "Section A",
+    "instruction": "Choose from the options A to D, the one which correctly answers the question.",
+    "preamble": "",
+    "question": "A circle is",
+    "options": {
+      "A": "a form.",
+      "B": "a principle of design.",
+      "C": "a sphere.",
+      "D": "an element of design."
+    },
+    "answer": "D",
+    "explanation": "Elements of design are the basic building blocks — line, shape, form, colour, texture, space and value. A circle is a shape, and shape is an element of design."
+  },
+  {
+    "id": 14,
+    "section": "Section A",
+    "instruction": "Choose from the options A to D, the one which correctly answers the question.",
+    "preamble": "",
+    "question": "The colour violet symbolizes",
+    "options": {
+      "A": "wealth.",
+      "B": "peace.",
+      "C": "aggression.",
+      "D": "royalty."
+    },
+    "answer": "D",
+    "explanation": "Violet has historically been associated with royalty. In ancient times, purple dye was very expensive so only kings and queens could afford it."
+  },
+  {
+    "id": 15,
+    "section": "Section A",
+    "instruction": "Choose from the options A to D, the one which correctly answers the question.",
+    "preamble": "",
+    "question": "The primary colours are",
+    "options": {
+      "A": "red, violet, yellow.",
+      "B": "green, yellow, red.",
+      "C": "red, yellow, blue.",
+      "D": "violet, yellow, green."
+    },
+    "answer": "C",
+    "explanation": "The three primary colours are red, yellow and blue. They cannot be made by mixing other colours. All other colours are made from these three."
+  },
+  {
+    "id": 16,
+    "section": "Section A",
+    "instruction": "Choose from the options A to D, the one which correctly answers the question.",
+    "preamble": "",
+    "question": "The most important nutrients found in vegetables are vitamins and",
+    "options": {
+      "A": "carbohydrates.",
+      "B": "proteins.",
+      "C": "minerals.",
+      "D": "fats."
+    },
+    "answer": "C",
+    "explanation": "Vegetables are mainly known for providing vitamins and minerals. These nutrients help with body processes, fighting diseases and keeping organs working well."
+  },
+  {
+    "id": 17,
+    "section": "Section A",
+    "instruction": "Choose from the options A to D, the one which correctly answers the question.",
+    "preamble": "",
+    "question": "In frying meat, heat is transferred by means of",
+    "options": {
+      "A": "conduction.",
+      "B": "convection.",
+      "C": "conduction and radiation.",
+      "D": "radiation and convection."
+    },
+    "answer": "A",
+    "explanation": "When you fry meat, the meat sits directly in hot oil. Heat passes from the hot oil into the meat by direct contact — this is conduction."
+  },
+  {
+    "id": 18,
+    "section": "Section A",
+    "instruction": "Choose from the options A to D, the one which correctly answers the question.",
+    "preamble": "",
+    "question": "Elements of design in nature include",
+    "options": {
+      "A": "lines, shape and dot.",
+      "B": "shape, dot and balance.",
+      "C": "line, rhythm and texture.",
+      "D": "texture, balance and rhythm."
+    },
+    "answer": "A",
+    "explanation": "Elements of design are the basic visual components — line, shape, dot, texture, colour, form and space. Balance and rhythm are principles of design, not elements."
+  },
+  {
+    "id": 19,
+    "section": "Section A",
+    "instruction": "Choose from the options A to D, the one which correctly answers the question.",
+    "preamble": "",
+    "question": "An adolescent whose diet is deficient in iron is likely to suffer from",
+    "options": {
+      "A": "rickets.",
+      "B": "goiter.",
+      "C": "scurvy.",
+      "D": "anaemia."
+    },
+    "answer": "D",
+    "explanation": "Iron is needed to make red blood cells which carry oxygen around the body. When your diet lacks iron, you develop anaemia — feeling tired, weak and pale."
+  },
+  {
+    "id": 20,
+    "section": "Section A",
+    "instruction": "Choose from the options A to D, the one which correctly answers the question.",
+    "preamble": "",
+    "question": "Wounds and fractures can heal quickly if one takes in adequate amount of",
+    "options": {
+      "A": "starchy roots and plantain.",
+      "B": "fruits and vegetables.",
+      "C": "animal products.",
+      "D": "legumes and pulses."
+    },
+    "answer": "B",
+    "explanation": "Fruits and vegetables are rich in Vitamin C which helps the body heal wounds and repair bones. Vitamin C is essential for producing collagen — the protein that holds skin and bones together during healing."
+  },
+  {
+    "id": 21,
+    "section": "Section A",
+    "instruction": "Choose from the options A to D, the one which correctly answers the question.",
+    "preamble": "",
+    "question": "A stitch that is worked from right to left on the right side of an article is",
+    "options": {
+      "A": "overcasting.",
+      "B": "oversewing.",
+      "C": "hemming stitch.",
+      "D": "slip stitch."
+    },
+    "answer": "B",
+    "explanation": "Oversewing is a hand stitch worked from right to left on the right side of the fabric. It creates diagonal stitches over the edge of the fabric."
+  },
+  {
+    "id": 22,
+    "section": "Section A",
+    "instruction": "Choose from the options A to D, the one which correctly answers the question.",
+    "preamble": "",
+    "question": "Which of the following elements of design is likely to be seen on whole baked rock buns?",
+    "options": {
+      "A": "Lines, colour and dot.",
+      "B": "Shape, texture and dot.",
+      "C": "Texture, shape and lines.",
+      "D": "Colour, lines and dot."
+    },
+    "answer": "B",
+    "explanation": "Rock buns have a round shape, a rough bumpy texture on the outside, and small dots from dried fruits like raisins on the surface. These three — shape, texture and dot — are the elements most clearly seen on rock buns."
+  },
+  {
+    "id": 23,
+    "section": "Section A",
+    "instruction": "Choose from the options A to D, the one which correctly answers the question.",
+    "preamble": "",
+    "question": "Incorrect threading of a sewing machine will cause",
+    "options": {
+      "A": "puckering of seams.",
+      "B": "missing stitches.",
+      "C": "thread breaking.",
+      "D": "loose stitches forming."
+    },
+    "answer": "D",
+    "explanation": "When a sewing machine is threaded incorrectly, the tension between the upper thread and the bobbin thread is not balanced. This causes loose loopy stitches on the fabric."
+  },
+  {
+    "id": 24,
+    "section": "Section A",
+    "instruction": "Choose from the options A to D, the one which correctly answers the question.",
+    "preamble": "",
+    "question": "Suitable inexpensive fabric for making bag is",
+    "options": {
+      "A": "poplin.",
+      "B": "denim.",
+      "C": "damask.",
+      "D": "calico."
+    },
+    "answer": "D",
+    "explanation": "Calico is a plain inexpensive cotton fabric that is sturdy and affordable — perfect for making bags on a budget. Denim is more expensive, damask is a luxury fabric, and poplin is better for shirts and dresses."
+  },
+  {
+    "id": 25,
+    "section": "Section A",
+    "instruction": "Choose from the options A to D, the one which correctly answers the question.",
+    "preamble": "",
+    "question": "The cause of spoilage in dried beans is",
+    "options": {
+      "A": "weevil.",
+      "B": "bugs.",
+      "C": "yeast activities.",
+      "D": "enzymes action."
+    },
+    "answer": "A",
+    "explanation": "Weevils are tiny insects that attack and destroy stored dried beans and grains. They lay eggs inside the beans and the larvae eat through them. This is a very common problem with stored beans in Ghana."
+  },
+  {
+    "id": 26,
+    "section": "Section A",
+    "instruction": "Choose from the options A to D, the one which correctly answers the question.",
+    "preamble": "",
+    "question": "The rubbing-in method is used in the preparation of",
+    "options": {
+      "A": "queen cakes.",
+      "B": "fish turnovers.",
+      "C": "banana fritters.",
+      "D": "sweet pancakes."
+    },
+    "answer": "A",
+    "explanation": "The rubbing-in method involves rubbing fat like butter into flour with your fingertips until it looks like breadcrumbs. This method is used for making queen cakes and scones."
+  },
+  {
+    "id": 27,
+    "section": "Section A",
+    "instruction": "Choose from the options A to D, the one which correctly answers the question.",
+    "preamble": "",
+    "question": "A suitable leavening agent that can be used in the preparation of banana cake is",
+    "options": {
+      "A": "palm wine.",
+      "B": "cream of tartar.",
+      "C": "baking powder.",
+      "D": "bicarbonate of soda."
+    },
+    "answer": "D",
+    "explanation": "Bicarbonate of soda is a good leavening agent for banana cake because bananas are naturally acidic. When bicarb reacts with the acid in bananas, it produces carbon dioxide bubbles that make the cake rise and become light."
+  },
+  {
+    "id": 28,
+    "section": "Section A",
+    "instruction": "Choose from the options A to D, the one which correctly answers the question.",
+    "preamble": "",
+    "question": "Heat is transferred by conduction and convection when food is cooked by",
+    "options": {
+      "A": "steaming.",
+      "B": "frying.",
+      "C": "grilling.",
+      "D": "baking."
+    },
+    "answer": "A",
+    "explanation": "Steaming transfers heat by both conduction (hot steam touching the food directly) and convection (hot steam rising and circulating around the food). Grilling uses mainly radiation, frying uses mainly conduction through oil."
+  },
+  {
+    "id": 29,
+    "section": "Section A",
+    "instruction": "Choose from the options A to D, the one which correctly answers the question.",
+    "preamble": "",
+    "question": "In Ghana, a popular method for preserving most food commodities at home is",
+    "options": {
+      "A": "drying.",
+      "B": "salting.",
+      "C": "smoking.",
+      "D": "bottling."
+    },
+    "answer": "A",
+    "explanation": "Drying is the most widely used traditional method of food preservation in Ghana. Foods like fish, meat, pepper and grains are dried in the sun to remove moisture which prevents bacteria and mould from growing."
+  },
+  {
+    "id": 30,
+    "section": "Section A",
+    "instruction": "Choose from the options A to D, the one which correctly answers the question.",
+    "preamble": "",
+    "question": "The main use of fat in cake making is to",
+    "options": {
+      "A": "enhance appearance.",
+      "B": "increase volume.",
+      "C": "improve keeping quality.",
+      "D": "improve flavour."
+    },
+    "answer": "B",
+    "explanation": "Fat like butter or margarine in cake making mainly helps to increase volume and create a light tender texture. Fat traps air during creaming which expands during baking making the cake rise and become fluffy."
+  }
+]

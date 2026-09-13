@@ -1,0 +1,402 @@
+[
+  {
+    "id": 1,
+    "section": "Section A",
+    "instruction": "Choose from the options A to D, the one which most suitably completes each sentence.",
+    "preamble": "",
+    "question": "If Azameti had won gold, Ghanaians ....",
+    "options": { "A": "will have jubilated", "B": "will jubilate", "C": "would have jubilated", "D": "would jubilate" },
+    "answer": "C",
+    "explanation": "This sentence is about something that did NOT happen — Azameti did not win gold. In English, when we talk about an unreal past situation, the pattern is: 'If + had, would have'. Think of it like this: 'If Kotoko had won, the fans would have celebrated.' Same pattern — so 'would have jubilated' is correct."
+  },
+  {
+    "id": 2,
+    "section": "Section A",
+    "instruction": "Choose from the options A to D, the one which most suitably completes each sentence.",
+    "preamble": "",
+    "question": "We were served a ... meal at that cosy restaurant.",
+    "options": { "A": "Spanish delicious spicy", "B": "delicious spicy Spanish", "C": "delicious Spanish spicy", "D": "spicy Spanish delicious" },
+    "answer": "B",
+    "explanation": "English adjectives have a fixed order: opinion words come first (like 'delicious'), then quality words (like 'spicy'), then origin words last (like 'Spanish'). So 'delicious spicy Spanish meal' is correct. Mixing up the order sounds unnatural to a native speaker."
+  },
+  {
+    "id": 3,
+    "section": "Section A",
+    "instruction": "Choose from the options A to D, the one which most suitably completes each sentence.",
+    "preamble": "",
+    "question": "Ali's parents have not bought ... of the two recommended books.",
+    "options": { "A": "any", "B": "none", "C": "neither", "D": "either" },
+    "answer": "D",
+    "explanation": "When there are exactly TWO things and the sentence is negative (uses 'not'), we use 'either'. Ali's parents 'have not bought either of the two books' — meaning none of the two was bought. 'Neither' would need a positive verb like 'bought', so it does not fit here."
+  },
+  {
+    "id": 4,
+    "section": "Section A",
+    "instruction": "Choose from the options A to D, the one which most suitably completes each sentence.",
+    "preamble": "",
+    "question": "Adwoa's daughter is allergic ... dust.",
+    "options": { "A": "about", "B": "against", "C": "with", "D": "to" },
+    "answer": "D",
+    "explanation": "'Allergic to' is a fixed phrase in English — 'to' always follows 'allergic'. Just like we say 'afraid of' or 'good at', each adjective has its own preposition partner. So the correct phrase is 'allergic to dust'."
+  },
+  {
+    "id": 5,
+    "section": "Section A",
+    "instruction": "Choose from the options A to D, the one which most suitably completes each sentence.",
+    "preamble": "",
+    "question": "Dauda saw the thief ... out of the shop.",
+    "options": { "A": "was running", "B": "is running", "C": "run", "D": "ran" },
+    "answer": "C",
+    "explanation": "After verbs of the senses like 'see', 'hear', and 'watch', we use the plain (base) form of the verb without 'to'. So we say 'saw the thief run', not 'to run' or 'running'. This is a special rule — the base verb always follows these sense verbs."
+  },
+  {
+    "id": 6,
+    "section": "Section A",
+    "instruction": "Choose from the options A to D, the one which most suitably completes each sentence.",
+    "preamble": "",
+    "question": "Konlaan suggested that it was time they ....... for the meeting.",
+    "options": { "A": "have to leave", "B": "left", "C": "had to leave", "D": "leave" },
+    "answer": "B",
+    "explanation": "After 'it is time', we use the past simple tense even though we are talking about the present. So 'it was time they left' means 'they should leave now'. This is a special English rule — past tense here does not mean the past; it means it should happen right now."
+  },
+  {
+    "id": 7,
+    "section": "Section A",
+    "instruction": "Choose from the options A to D, the one which most suitably completes each sentence.",
+    "preamble": "",
+    "question": "Last Wednesday, it rained heavily ... the match was played.",
+    "options": { "A": "and", "B": "so", "C": "for", "D": "yet" },
+    "answer": "D",
+    "explanation": "'Yet' is used to show contrast and surprise — it connects two ideas that seem to contradict each other. Here, it rained heavily BUT the match still went on — that is surprising! 'And' would just add information, not show the unexpected contrast."
+  },
+  {
+    "id": 8,
+    "section": "Section A",
+    "instruction": "Choose from the options A to D, the one which most suitably completes each sentence.",
+    "preamble": "",
+    "question": "You haven't met each other before, ....... you?",
+    "options": { "A": "hadn't", "B": "have", "C": "haven't", "D": "had" },
+    "answer": "B",
+    "explanation": "In question tags, when the main sentence is negative (uses 'haven't'), the tag must be positive ('have you?'). It is the rule of opposites — negative sentence, positive tag. So 'You haven't met, have you?' is correct."
+  },
+  {
+    "id": 9,
+    "section": "Section A",
+    "instruction": "Choose from the options A to D, the one which most suitably completes each sentence.",
+    "preamble": "",
+    "question": "At my last interview, I faced ... panel.",
+    "options": { "A": "seven-members'", "B": "a seven-member", "C": "a seven-member's", "D": "seven-members" },
+    "answer": "B",
+    "explanation": "When a number describes a group before a noun, we join them with a hyphen and use the singular form: 'a seven-member panel'. Think of it like 'a ten-year-old child' — hyphen, singular, no apostrophe. The number and noun become one describing unit."
+  },
+  {
+    "id": 10,
+    "section": "Section A",
+    "instruction": "Choose from the options A to D, the one which most suitably completes each sentence.",
+    "preamble": "",
+    "question": "Which of the ... fragrance(s) is milder?",
+    "options": { "A": "two", "B": "one", "C": "most", "D": "all" },
+    "answer": "A",
+    "explanation": "'Milder' is a comparative word — used when comparing exactly TWO things. Since we are comparing two fragrances, we say 'which of the two is milder?' If there were many fragrances, we would use the superlative 'mildest'. 'Two' is the clue."
+  },
+  {
+    "id": 11,
+    "section": "Section A",
+    "instruction": "Choose from the options A to D, the one which most suitably completes each sentence.",
+    "preamble": "",
+    "question": "Last month, there was ...",
+    "options": { "A": "an eclipse of a sun", "B": "the eclipse of a sun", "C": "an eclipse of the sun", "D": "the eclipse of the sun" },
+    "answer": "C",
+    "explanation": "'Eclipse' is mentioned for the first time, so we use 'an' before it. But 'sun' refers to the only sun everyone shares, so it always takes 'the'. Put them together: 'an eclipse of the sun'. This follows two important article rules at once."
+  },
+  {
+    "id": 12,
+    "section": "Section A",
+    "instruction": "Choose from the options A to D, the one which most suitably completes each sentence.",
+    "preamble": "",
+    "question": "Among the participants for the competition, Eugenia got here ... early.",
+    "options": { "A": "very", "B": "only", "C": "often", "D": "most" },
+    "answer": "D",
+    "explanation": "When we compare one person to EVERYONE ELSE in a group, we use the superlative. Eugenia arrived before all other participants, so we say she got there 'most early'. If she were being compared to just one other person, we would use 'earlier'."
+  },
+  {
+    "id": 13,
+    "section": "Section A",
+    "instruction": "Choose from the options A to D, the one which most suitably completes each sentence.",
+    "preamble": "",
+    "question": "Afiba's aunt, ... lives in Tamale spoke to us very courteously.",
+    "options": { "A": "who", "B": "whom", "C": "that", "D": "which" },
+    "answer": "A",
+    "explanation": "'Who' is used for people when they are doing the action in the clause — the subject. Afiba's aunt 'lives' in Tamale — the aunt is the one living there, so she is the subject. 'Who' is correct. 'Which' is for things, not people."
+  },
+  {
+    "id": 14,
+    "section": "Section A",
+    "instruction": "Choose from the options A to D, the one which most suitably completes each sentence.",
+    "preamble": "The correct reported speech for the sentence below is:",
+    "question": "\"I will keep my word\", promised Kende. The correct reported speech is:",
+    "options": { "A": "Kende promise to keep her word.", "B": "Kende is promising to keep her word.", "C": "Kende promises to keep her word.", "D": "Kende promised to keep her word." },
+    "answer": "D",
+    "explanation": "When we report what someone said in the past, we change the tense back. 'I will keep my word' becomes 'Kende promised to keep her word.' The reporting verb 'promised' is past tense, and this is the standard reported speech pattern."
+  },
+  {
+    "id": 15,
+    "section": "Section A",
+    "instruction": "Choose from the options A to D, the one which most suitably completes each sentence.",
+    "preamble": "The correct passive form of the sentence below is:",
+    "question": "For winning the first position in the Essay Competition, the school gave Linda a laptop. The correct passive: Linda ... given a laptop by the school.",
+    "options": { "A": "is", "B": "has been", "C": "was", "D": "is being" },
+    "answer": "C",
+    "explanation": "The original sentence uses past tense ('gave'), so the passive form must also be past tense. The passive formula is 'was/were + past participle'. Linda is one person (singular), so we use 'was given'. 'Is' or 'has been' would give the wrong tense."
+  },
+  {
+    "id": 16,
+    "section": "Section B",
+    "instruction": "Choose from the options A to D, the one which is nearest in meaning to the underlined word in each sentence.",
+    "preamble": "",
+    "question": "Little Asabea wondered why her grandfather walked so slowly.",
+    "options": { "A": "was saddened that", "B": "felt frustrated that", "C": "was curious about why", "D": "thought about why" },
+    "answer": "C",
+    "explanation": "'Wondered' means to think about something with curiosity — you want to know the answer. Asabea was not sad or frustrated; she was just curious about her grandfather's slow walking. 'Was curious about why' captures this meaning most closely."
+  },
+  {
+    "id": 17,
+    "section": "Section B",
+    "instruction": "Choose from the options A to D, the one which is nearest in meaning to the underlined word in each sentence.",
+    "preamble": "",
+    "question": "We're so excited because Amuzu's proposal has been accepted.",
+    "options": { "A": "suggestion", "B": "offer", "C": "opinion", "D": "view" },
+    "answer": "A",
+    "explanation": "A 'proposal' is when you formally put forward an idea or plan for others to consider and decide on. The closest simple word is 'suggestion' — you are suggesting something for people to think about and accept or reject."
+  },
+  {
+    "id": 18,
+    "section": "Section B",
+    "instruction": "Choose from the options A to D, the one which is nearest in meaning to the underlined word in each sentence.",
+    "preamble": "",
+    "question": "Mama said, \"You can only fight off bullies if you are assertive\".",
+    "options": { "A": "muscular", "B": "strong", "C": "smart", "D": "bold" },
+    "answer": "D",
+    "explanation": "'Assertive' means speaking up confidently and standing your ground without being rude or backing down. The closest word is 'bold'. Being 'muscular' or 'strong' is about physical power, which is a different thing from being assertive."
+  },
+  {
+    "id": 19,
+    "section": "Section B",
+    "instruction": "Choose from the options A to D, the one which is nearest in meaning to the underlined word in each sentence.",
+    "preamble": "",
+    "question": "The rampant destruction of property must be checked.",
+    "options": { "A": "common", "B": "regular", "C": "unpleasant", "D": "uncontrolled" },
+    "answer": "D",
+    "explanation": "'Rampant' describes something spreading fast and completely out of control — like a fire no one is stopping. The closest word is 'uncontrolled'. 'Common' just means it happens often, which is not the same as being out of control."
+  },
+  {
+    "id": 20,
+    "section": "Section B",
+    "instruction": "Choose from the options A to D, the one which is nearest in meaning to the underlined word in each sentence.",
+    "preamble": "",
+    "question": "The salient points of the topic have been thoroughly discussed.",
+    "options": { "A": "highlighted", "B": "chosen", "C": "important", "D": "interesting" },
+    "answer": "C",
+    "explanation": "'Salient' means the most noticeable and significant points — the key ideas. Think of it as the points a good teacher writes on the board — the most important ones. 'Important' is the closest everyday synonym."
+  },
+  {
+    "id": 21,
+    "section": "Section C",
+    "instruction": "Choose from the options A to D, the one that best explains the underlined group of words.",
+    "preamble": "",
+    "question": "The chief advised his subjects not to allow anger to get the better of them. This means they should not let anger ... them.",
+    "options": { "A": "divide", "B": "sadden", "C": "control", "D": "deceive" },
+    "answer": "C",
+    "explanation": "'Get the better of someone' means to overcome or overpower them. When anger gets the better of you, it takes control and you stop thinking clearly. The chief is warning his subjects not to let anger overpower their actions and decisions."
+  },
+  {
+    "id": 22,
+    "section": "Section C",
+    "instruction": "Choose from the options A to D, the one that best explains the underlined group of words.",
+    "preamble": "",
+    "question": "\"Do not be such a wet blanket, Afua. Your brother needs all the support you can give him\". This means that Afua ... her brother.",
+    "options": { "A": "didn't care about", "B": "couldn't wash for", "C": "was too weak to help", "D": "liked to discourage" },
+    "answer": "D",
+    "explanation": "A 'wet blanket' is someone who kills other people's enthusiasm by being negative. Afua was pulling her brother down instead of lifting him up — she was discouraging him. The phrase means she liked to dampen his spirits and discourage him."
+  },
+  {
+    "id": 23,
+    "section": "Section C",
+    "instruction": "Choose from the options A to D, the one that best explains the underlined group of words.",
+    "preamble": "",
+    "question": "Asuo had to eat his words when Asante Kotoko lost to Tano Bofoakwa FC. This means that Asuo ....",
+    "options": { "A": "admitted that he was wrong", "B": "denied everything he had said", "C": "became very ashamed", "D": "lost his appetite" },
+    "answer": "A",
+    "explanation": "To 'eat your words' means to admit you were wrong after events proved you incorrect. Asuo had made a prediction, but Kotoko lost and proved him wrong. He had to admit his prediction was wrong — he ate his words."
+  },
+  {
+    "id": 24,
+    "section": "Section C",
+    "instruction": "Choose from the options A to D, the one that best explains the underlined group of words.",
+    "preamble": "",
+    "question": "The fraudster was paid back in his own coins. This means that he was ....",
+    "options": { "A": "given a hot chase", "B": "swindled", "C": "punished", "D": "given new coins" },
+    "answer": "B",
+    "explanation": "'Paid back in your own coins' means treated in the same bad way you treated others — like the saying 'what goes around comes around'. Since the person was a fraudster who cheated people, he got cheated in return. He was swindled."
+  },
+  {
+    "id": 25,
+    "section": "Section C",
+    "instruction": "Choose from the options A to D, the one that best explains the underlined group of words.",
+    "preamble": "",
+    "question": "Yaaba hit the nail on the head when she told us that we could only succeed through hardwork. This means that Yaaba ...",
+    "options": { "A": "was a good hairdresser", "B": "told us the truth", "C": "tried to deceive us", "D": "showed that she disliked us" },
+    "answer": "B",
+    "explanation": "To 'hit the nail on the head' means to say exactly the right thing — perfectly accurate. Yaaba's statement about hard work was spot on and exactly true. So the phrase means she told the truth with great accuracy."
+  },
+  {
+    "id": 26,
+    "section": "Section D",
+    "instruction": "Choose from the options A to D, the one that is most nearly opposite in meaning to the underlined word in each sentence.",
+    "preamble": "",
+    "question": "Due to the ongoing road construction, our shops have been temporarily closed down.",
+    "options": { "A": "permanently", "B": "legally", "C": "deliberately", "D": "constantly" },
+    "answer": "A",
+    "explanation": "'Temporarily' means for a short time only — things will change back later. The opposite is 'permanently', which means forever with no plan to change. If a shop closes temporarily, it will reopen; if permanently, it never reopens."
+  },
+  {
+    "id": 27,
+    "section": "Section D",
+    "instruction": "Choose from the options A to D, the one that is most nearly opposite in meaning to the underlined word in each sentence.",
+    "preamble": "",
+    "question": "Some exercises may seem easy in theoretical terms but can be really difficult in ... aspects.",
+    "options": { "A": "practical", "B": "natural", "C": "logical", "D": "actual" },
+    "answer": "A",
+    "explanation": "'Theoretical' means in ideas or on paper — not yet done in real life. The opposite is 'practical', which means doing things for real in the real world. Some exercises look easy when you just read about them but become hard when you actually try."
+  },
+  {
+    "id": 28,
+    "section": "Section D",
+    "instruction": "Choose from the options A to D, the one that is most nearly opposite in meaning to the underlined word in each sentence.",
+    "preamble": "",
+    "question": "It is good to get a cure for a disease, but it is better to ... the disease.",
+    "options": { "A": "prevent", "B": "protect", "C": "avoid", "D": "counter" },
+    "answer": "A",
+    "explanation": "A 'cure' treats a disease AFTER you already have it. The better option is to stop the disease BEFORE it starts — that is 'prevention'. The opposite of curing is preventing the disease from happening at all, so 'prevent' is the answer."
+  },
+  {
+    "id": 29,
+    "section": "Section D",
+    "instruction": "Choose from the options A to D, the one that is most nearly opposite in meaning to the underlined word in each sentence.",
+    "preamble": "",
+    "question": "It is hard to tell when this began or where it will ....",
+    "options": { "A": "fall", "B": "cease", "C": "reside", "D": "remain" },
+    "answer": "B",
+    "explanation": "The sentence talks about something that 'began' and asks where it will end. 'Cease' is the opposite of 'begin' — it means to stop or come to an end. So the missing word is 'cease', meaning where this thing will finally stop."
+  },
+  {
+    "id": 30,
+    "section": "Section D",
+    "instruction": "Choose from the options A to D, the one that is most nearly opposite in meaning to the underlined word in each sentence.",
+    "preamble": "",
+    "question": "Regions with abundant rainfall are different from those having ... moisture.",
+    "options": { "A": "unpredictable", "B": "scanty", "C": "uncertain", "D": "reduced" },
+    "answer": "B",
+    "explanation": "'Abundant' rainfall means a lot of rain — more than enough. The opposite is 'scanty' moisture, which means very little — barely enough. Regions with plenty of rain are very different from those where water is scarce."
+  },
+  {
+    "id": 31,
+    "section": "Section E",
+    "instruction": "Choose from the options provided the word that is most suitable for each numbered gap in the passage.",
+    "preamble": "The meeting began with the reading of the minutes of the previous meeting. The Chairman asked if there were any corrections to be made to the minutes. Then one member complained that after checking the [31] list, he realised that his name had been wrongly spelt. The Chairman apologised for the error and the matter was resolved. Two [32] were proposed and voted on. At the end of the discussions, the Chairman asked a member to [33] for the closure of the meeting. Tetteh Oko did and he was [34] by Adjoa Mansa. The meeting was then [35] to a new date.",
+    "question": "The meeting began with the reading of the minutes. One member complained that after checking the [31] list, his name had been wrongly spelt.",
+    "options": { "A": "register", "B": "compiled", "C": "present", "D": "attendance" },
+    "answer": "D",
+    "explanation": "At any formal meeting, the 'attendance list' is the official record that shows who came. A member checking whether their name was correctly written would look at the attendance list — the one that records who was present."
+  },
+  {
+    "id": 32,
+    "section": "Section E",
+    "instruction": "Choose from the options provided the word that is most suitable for each numbered gap in the passage.",
+    "preamble": "The meeting began with the reading of the minutes of the previous meeting. The Chairman asked if there were any corrections to be made to the minutes. Then one member complained that after checking the [31] list, he realised that his name had been wrongly spelt. The Chairman apologised for the error and the matter was resolved. Two [32] were proposed and voted on. At the end of the discussions, the Chairman asked a member to [33] for the closure of the meeting. Tetteh Oko did and he was [34] by Adjoa Mansa. The meeting was then [35] to a new date.",
+    "question": "Two [32] were proposed and voted on.",
+    "options": { "A": "motions", "B": "ideas", "C": "decisions", "D": "intentions" },
+    "answer": "A",
+    "explanation": "In formal meetings, a 'motion' is a formal proposal that is introduced, discussed, and voted on by members. 'Motions' is the correct meeting vocabulary here. 'Ideas' and 'decisions' are too casual for official meeting language."
+  },
+  {
+    "id": 33,
+    "section": "Section E",
+    "instruction": "Choose from the options provided the word that is most suitable for each numbered gap in the passage.",
+    "preamble": "The meeting began with the reading of the minutes of the previous meeting. The Chairman asked if there were any corrections to be made to the minutes. Then one member complained that after checking the [31] list, he realised that his name had been wrongly spelt. The Chairman apologised for the error and the matter was resolved. Two [32] were proposed and voted on. At the end of the discussions, the Chairman asked a member to [33] for the closure of the meeting. Tetteh Oko did and he was [34] by Adjoa Mansa. The meeting was then [35] to a new date.",
+    "question": "The Chairman asked a member to [33] for the closure of the meeting.",
+    "options": { "A": "declare", "B": "call", "C": "recommend", "D": "move" },
+    "answer": "D",
+    "explanation": "In formal meeting language, to 'move' means to formally propose something for the group to agree on. A member 'moves' for the meeting to close. This is official meeting vocabulary — 'recommend' and 'call' do not carry the same formal weight here."
+  },
+  {
+    "id": 34,
+    "section": "Section E",
+    "instruction": "Choose from the options provided the word that is most suitable for each numbered gap in the passage.",
+    "preamble": "The meeting began with the reading of the minutes of the previous meeting. The Chairman asked if there were any corrections to be made to the minutes. Then one member complained that after checking the [31] list, he realised that his name had been wrongly spelt. The Chairman apologised for the error and the matter was resolved. Two [32] were proposed and voted on. At the end of the discussions, the Chairman asked a member to [33] for the closure of the meeting. Tetteh Oko did and he was [34] by Adjoa Mansa. The meeting was then [35] to a new date.",
+    "question": "Tetteh Oko did and he was [34] by Adjoa Mansa.",
+    "options": { "A": "approved", "B": "seconded", "C": "upheld", "D": "supported" },
+    "answer": "B",
+    "explanation": "When one person 'moves' a proposal in a formal meeting, another person must 'second' it — meaning they officially support it so it can be discussed and voted on. This is a key step in meeting procedure. 'Seconded' is the correct formal term."
+  },
+  {
+    "id": 35,
+    "section": "Section E",
+    "instruction": "Choose from the options provided the word that is most suitable for each numbered gap in the passage.",
+    "preamble": "The meeting began with the reading of the minutes of the previous meeting. The Chairman asked if there were any corrections to be made to the minutes. Then one member complained that after checking the [31] list, he realised that his name had been wrongly spelt. The Chairman apologised for the error and the matter was resolved. Two [32] were proposed and voted on. At the end of the discussions, the Chairman asked a member to [33] for the closure of the meeting. Tetteh Oko did and he was [34] by Adjoa Mansa. The meeting was then [35] to a new date.",
+    "question": "The meeting was then [35] to a new date.",
+    "options": { "A": "adjourned", "B": "postponed", "C": "deferred", "D": "shifted" },
+    "answer": "A",
+    "explanation": "A meeting is 'adjourned' when it officially ends with plans to meet again on another day. This is the correct formal word. 'Postponed' is used when something is pushed to a later time BEFORE it even starts — not after it has already taken place."
+  },
+  {
+    "id": 36,
+    "section": "Section F - Unit I",
+    "instruction": "Choose from the options A to D, the one which has the same consonant sound as the underlined word.",
+    "preamble": "",
+    "question": "Those two are arch rivals. Choose the option with the SAME consonant sound as 'arch'.",
+    "options": { "A": "splash", "B": "patch", "C": "path", "D": "spark" },
+    "answer": "B",
+    "explanation": "The word 'arch' ends with the /tʃ/ sound — like in 'church' or 'match'. 'Patch' also ends with that same /tʃ/ sound. 'Path' ends with a 'th' sound, and 'splash' ends with 'sh' — both different sounds from 'arch'."
+  },
+  {
+    "id": 37,
+    "section": "Section F - Unit I",
+    "instruction": "Choose from the options A to D, the one which has the same consonant sound as the underlined word.",
+    "preamble": "",
+    "question": "Prosper is the new chef. Choose the option with the SAME consonant sound as 'chef'.",
+    "options": { "A": "chord", "B": "chair", "C": "shield", "D": "scheme" },
+    "answer": "C",
+    "explanation": "The word 'chef' begins with the /ʃ/ sound — like the 'sh' in 'shoe' or 'sheep'. 'Shield' also begins with 'sh', giving it the same /ʃ/ sound. 'Chair' starts with /tʃ/ like 'church', and 'chord' starts with /k/ — both are different sounds."
+  },
+  {
+    "id": 38,
+    "section": "Section F - Unit I",
+    "instruction": "Choose from the options A to D, the one which has the same consonant sound as the underlined word.",
+    "preamble": "",
+    "question": "Lariba sprang to her feet. Choose the option with the SAME consonant sound as 'sprang'.",
+    "options": { "A": "sprayed", "B": "struck", "C": "slew", "D": "splashed" },
+    "answer": "D",
+    "explanation": "The word 'sprang' starts with the consonant cluster 'spr' — three sounds together: s, p, r. 'Splashed' starts with 'spl' — also three consonants: s, p, l. Both words start with a three-consonant cluster beginning with 'sp', making their sound patterns similar."
+  },
+  {
+    "id": 39,
+    "section": "Section F - Unit II",
+    "instruction": "Choose from the options A to D, the one which has the same vowel sound as the underlined word.",
+    "preamble": "",
+    "question": "Whole grains are healthier than polished ones. Choose the option with the SAME vowel sound as 'Whole'.",
+    "options": { "A": "Gill", "B": "Goal", "C": "Gaul", "D": "Gaol" },
+    "answer": "D",
+    "explanation": "'Whole' is pronounced with the /oʊ/ vowel sound — it rhymes with 'hole' and 'soul'. 'Gaol' is an old spelling of 'jail' and shares that same /oʊ/ vowel sound with 'Whole'. Say them both carefully and you will hear the match."
+  },
+  {
+    "id": 40,
+    "section": "Section F - Unit II",
+    "instruction": "Choose from the options A to D, the one which has the same vowel sound as the underlined word.",
+    "preamble": "",
+    "question": "The heir to the British throne was the Duke of Cornwall. Choose the option with the SAME vowel sound as 'heir'.",
+    "options": { "A": "here", "B": "hail", "C": "air", "D": "hew" },
+    "answer": "C",
+    "explanation": "'Heir' is pronounced exactly like 'air' — the 'h' is completely silent! Say them both: 'heir', 'air' — they sound identical. 'Here' has a different vowel sound /hɪər/, and 'hew' sounds like /hjuː/ — both very different from 'heir'."
+  }
+]

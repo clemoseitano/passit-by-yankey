@@ -1,0 +1,21 @@
+:root {
+  --primary: #1B4332;
+  --accent: #40C074;
+  --background: #F8FAF9;
+  --card: #FFFFFF;
+  --locked: #D1D5DB;
+  --text: #1A1A1A;
+}
+
+*, *::before, *::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: var(--background);
+  font-family: 'Inter', sans-serif;
+  color: var(--text);
+  -webkit-font-smoothing: antialiased;
+}

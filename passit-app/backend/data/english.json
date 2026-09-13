@@ -1,0 +1,483 @@
+[
+  {
+    "id": 1,
+    "question": "What is the meaning of the word 'benevolent'?",
+    "options": {
+      "A": "Cruel and harsh",
+      "B": "Kind and generous",
+      "C": "Lazy and careless",
+      "D": "Brave and bold"
+    },
+    "answer": "B",
+    "explanation": "'Benevolent' comes from Latin words meaning 'good will.' A benevolent person genuinely wishes good things for others and shows it through kindness and generosity. The other options describe completely different qualities."
+  },
+  {
+    "id": 2,
+    "question": "The word 'diligent' means:",
+    "options": {
+      "A": "Careless and lazy",
+      "B": "Dishonest and cunning",
+      "C": "Hardworking and careful",
+      "D": "Weak and timid"
+    },
+    "answer": "C",
+    "explanation": "A diligent person works consistently and carefully without being told. Think of a student who studies every day and pays attention in class — that student is diligent. Option A is the opposite of diligent."
+  },
+  {
+    "id": 3,
+    "question": "What does the word 'obsolete' mean?",
+    "options": {
+      "A": "Very modern",
+      "B": "Extremely expensive",
+      "C": "No longer in use",
+      "D": "Difficult to find"
+    },
+    "answer": "C",
+    "explanation": "Something that is obsolete has been replaced by something newer and is no longer used. For example, cassette tapes are now obsolete because we use digital music instead. Option A is the direct opposite."
+  },
+  {
+    "id": 4,
+    "question": "The word 'candid' means:",
+    "options": {
+      "A": "Shy and timid",
+      "B": "Truthful and straightforward",
+      "C": "Angry and bitter",
+      "D": "Proud and arrogant"
+    },
+    "answer": "B",
+    "explanation": "A candid person speaks honestly and openly, without hiding the truth or beating around the bush. If someone gives you candid feedback, they are being direct and truthful with you, even if it is not what you want to hear."
+  },
+  {
+    "id": 5,
+    "question": "What is the meaning of 'frugal'?",
+    "options": {
+      "A": "Wasteful and extravagant",
+      "B": "Generous and giving",
+      "C": "Careful and wise with money",
+      "D": "Loud and boastful"
+    },
+    "answer": "C",
+    "explanation": "A frugal person avoids waste and spends money wisely. Being frugal does not mean being poor — it means making smart choices with what you have. Option A ('wasteful') is the direct opposite."
+  },
+  {
+    "id": 6,
+    "question": "The word 'eloquent' means:",
+    "options": {
+      "A": "Rude and disrespectful",
+      "B": "Silent and withdrawn",
+      "C": "Confused and unclear",
+      "D": "Fluent and persuasive in speech"
+    },
+    "answer": "D",
+    "explanation": "An eloquent person expresses ideas clearly, beautifully, and convincingly. A good preacher, lawyer, or leader who moves people with their words is eloquent. Options A, B, and C all describe the opposite — poor communication."
+  },
+  {
+    "id": 7,
+    "question": "What does the word 'tranquil' mean?",
+    "options": {
+      "A": "Noisy and chaotic",
+      "B": "Bright and colourful",
+      "C": "Calm and peaceful",
+      "D": "Hard and rough"
+    },
+    "answer": "C",
+    "explanation": "A tranquil place is one that is quiet, calm, and undisturbed — like a still lake early in the morning or a peaceful garden. Option A ('noisy and chaotic') is the direct opposite of tranquil."
+  },
+  {
+    "id": 8,
+    "question": "To 'persevere' means to:",
+    "options": {
+      "A": "Give up when things become difficult",
+      "B": "Continue in spite of difficulty",
+      "C": "Act carelessly and without thought",
+      "D": "Speak rudely to others"
+    },
+    "answer": "B",
+    "explanation": "To persevere means to keep trying even when things are hard or discouraging. A student who keeps studying even after failing a test is showing perseverance. Option A ('give up') is the direct opposite."
+  },
+  {
+    "id": 9,
+    "question": "The word 'meticulous' means:",
+    "options": {
+      "A": "Bold and fearless",
+      "B": "Slow and dull",
+      "C": "Lazy and careless",
+      "D": "Very careful and precise"
+    },
+    "answer": "D",
+    "explanation": "A meticulous person pays very close attention to every small detail and makes sure everything is exactly right. A meticulous student checks their work several times before submitting it. Option C ('careless') is the direct opposite."
+  },
+  {
+    "id": 10,
+    "question": "What does the word 'vivid' mean?",
+    "options": {
+      "A": "Dull and faded",
+      "B": "Bright and clear",
+      "C": "Dark and gloomy",
+      "D": "Small and tiny"
+    },
+    "answer": "B",
+    "explanation": "Vivid describes something that is very bright, clear, and striking — like a vivid colour or a vivid memory that feels real. A vivid description creates a clear picture in your mind. Option A ('dull and faded') is the direct opposite."
+  },
+  {
+    "id": 11,
+    "question": "She _______ to school every day.",
+    "options": {
+      "A": "go",
+      "B": "going",
+      "C": "goes",
+      "D": "gone"
+    },
+    "answer": "C",
+    "explanation": "In the simple present tense, verbs used with a third-person singular subject (he, she, it) must end in '-s'. Since the subject is 'she,' the correct verb form is 'goes,' not 'go.' 'Going' and 'gone' are not used as the main verb without a helping verb."
+  },
+  {
+    "id": 12,
+    "question": "Neither the teacher nor the students _______ present at the assembly.",
+    "options": {
+      "A": "was",
+      "B": "is",
+      "C": "were",
+      "D": "are"
+    },
+    "answer": "C",
+    "explanation": "With 'neither…nor,' the verb agrees with the subject closest to it. 'Students' is the closer subject and it is plural, so we use the plural past tense 'were.' If it said 'neither the students nor the teacher,' we would use 'was' to agree with the singular 'teacher.'"
+  },
+  {
+    "id": 13,
+    "question": "The children _______ playing when the rain started.",
+    "options": {
+      "A": "are",
+      "B": "is",
+      "C": "was",
+      "D": "were"
+    },
+    "answer": "D",
+    "explanation": "This sentence uses the past continuous tense to describe an ongoing action in the past. The structure is 'was/were + verb-ing.' Since 'children' is plural, we use 'were playing.' 'Are playing' is present tense, which does not fit the context."
+  },
+  {
+    "id": 14,
+    "question": "By the time we arrived, the ceremony _______ already started.",
+    "options": {
+      "A": "has",
+      "B": "have",
+      "C": "had",
+      "D": "was"
+    },
+    "answer": "C",
+    "explanation": "When one past action happened before another past action, we use the past perfect tense: 'had + past participle.' The ceremony starting happened before we arrived, so we say 'had already started.' 'Has' and 'have' are present perfect, which is wrong here."
+  },
+  {
+    "id": 15,
+    "question": "He is the _______ student in the class.",
+    "options": {
+      "A": "more intelligent",
+      "B": "intelligenter",
+      "C": "intelligence",
+      "D": "most intelligent"
+    },
+    "answer": "D",
+    "explanation": "We are comparing one student against all others in the class, so we need the superlative form. For long adjectives like 'intelligent,' the superlative is formed by adding 'most' in front: 'most intelligent.' 'More intelligent' is the comparative form (used when comparing only two things). 'Intelligenter' is not a real word."
+  },
+  {
+    "id": 16,
+    "question": "The book _______ on the table belongs to the teacher.",
+    "options": {
+      "A": "lying",
+      "B": "lie",
+      "C": "lies",
+      "D": "lain"
+    },
+    "answer": "A",
+    "explanation": "'Lying' is the present participle of 'lie,' used here as an adjective to describe the book. 'The book lying on the table' means 'the book that is resting on the table.' We cannot use 'lie' or 'lies' because that would create a second main verb in the sentence, which is grammatically wrong."
+  },
+  {
+    "id": 17,
+    "question": "I would have helped you if you _______ asked me.",
+    "options": {
+      "A": "have",
+      "B": "has",
+      "C": "had",
+      "D": "was"
+    },
+    "answer": "C",
+    "explanation": "This is a third conditional sentence, used for imaginary situations in the past. The structure is: 'if + had + past participle' in the condition, and 'would have + past participle' in the result. So the correct form is 'had asked.' 'Have asked' and 'has asked' are present perfect, which do not fit."
+  },
+  {
+    "id": 18,
+    "question": "The teacher, along with the students, _______ going on a trip.",
+    "options": {
+      "A": "are",
+      "B": "were",
+      "C": "is",
+      "D": "have"
+    },
+    "answer": "C",
+    "explanation": "The real subject of this sentence is 'the teacher,' which is singular. The phrase 'along with the students' is additional information added in commas — it does not change the subject. A singular subject takes a singular verb, so 'is' is correct, not 'are.'"
+  },
+  {
+    "id": 19,
+    "question": "Either James or his brothers _______ responsible for the noise.",
+    "options": {
+      "A": "is",
+      "B": "was",
+      "C": "are",
+      "D": "were"
+    },
+    "answer": "C",
+    "explanation": "With 'either…or,' the verb agrees with the subject closest to it. 'Brothers' is the closer subject and it is plural (present tense), so we use 'are.' If the sentence said 'either his brothers or James,' we would use 'is' to agree with the singular 'James.'"
+  },
+  {
+    "id": 20,
+    "question": "She asked me where _______ going.",
+    "options": {
+      "A": "I am",
+      "B": "I was",
+      "C": "was I",
+      "D": "am I"
+    },
+    "answer": "B",
+    "explanation": "This is reported (indirect) speech. Two rules apply: (1) the tense shifts back — 'am' becomes 'was'; (2) we use statement word order (subject before verb), not question order. So 'where are you going?' becomes 'where I was going.' Options C and D use question word order, which is wrong in reported speech."
+  },
+  {
+    "id": 21,
+    "passage": "The importance of reading cannot be overemphasized. Reading improves our vocabulary and general knowledge. It also sharpens our thinking and helps us communicate effectively. Students who read widely tend to perform better in all subjects because they can understand questions more clearly and express their answers well.\n\nMany successful people have attributed their achievements to the habit of reading. In our modern world, where information changes rapidly, those who read regularly are better equipped to adapt to new challenges. Libraries are therefore important resources that students must take advantage of.\n\nParents and teachers have a responsibility to encourage young people to read. This can be done by providing interesting books, visiting the library regularly, and making reading a fun activity rather than a chore.",
+    "question": "Read the passage carefully and answer questions 21–28.\n\nWhat is the main idea of the passage?",
+    "options": {
+      "A": "Libraries are the most important places for students",
+      "B": "The importance of reading",
+      "C": "How to improve one's vocabulary",
+      "D": "Parents should always buy books for their children"
+    },
+    "answer": "B",
+    "explanation": "The main idea is the central message that runs through the entire passage. Every paragraph talks about why reading matters — it improves vocabulary, helps successful people, and should be encouraged. Libraries and vocabulary are mentioned, but they are details that support the main idea, not the main idea itself."
+  },
+  {
+    "id": 22,
+    "question": "According to the passage, students who read widely:",
+    "options": {
+      "A": "tend to perform better in all subjects",
+      "B": "only improve in the English subject",
+      "C": "become too lazy to do other activities",
+      "D": "spend all their time in the library"
+    },
+    "answer": "A",
+    "explanation": "The first paragraph states this directly: 'Students who read widely tend to perform better in all subjects because they can understand questions more clearly and express their answers well.' The key words are 'all subjects,' not just English. The other options are not stated anywhere in the passage."
+  },
+  {
+    "id": 23,
+    "question": "The word 'attributed' as used in the passage means:",
+    "options": {
+      "A": "given credit to",
+      "B": "denied",
+      "C": "forgotten about",
+      "D": "removed from"
+    },
+    "answer": "A",
+    "explanation": "To attribute something means to point to it as the cause or reason. 'Successful people have attributed their achievements to reading' means they give reading the credit — they say reading is the reason they succeeded. Option B ('denied') is the direct opposite."
+  },
+  {
+    "id": 24,
+    "question": "According to the passage, in our modern world:",
+    "options": {
+      "A": "reading is no longer important",
+      "B": "information changes rapidly",
+      "C": "libraries are no longer useful",
+      "D": "only adults need to read regularly"
+    },
+    "answer": "B",
+    "explanation": "The second paragraph states this directly: 'In our modern world, where information changes rapidly, those who read regularly are better equipped to adapt to new challenges.' Options A and C contradict what the passage says, and option D is not mentioned at all."
+  },
+  {
+    "id": 25,
+    "question": "Who, according to the passage, has the responsibility to encourage young people to read?",
+    "options": {
+      "A": "Only parents",
+      "B": "Only teachers",
+      "C": "Parents and teachers",
+      "D": "Students themselves"
+    },
+    "answer": "C",
+    "explanation": "The third paragraph says clearly: 'Parents and teachers have a responsibility to encourage young people to read.' Both groups are mentioned together. Options A and B are only partially correct — the passage includes both, not just one of them."
+  },
+  {
+    "id": 26,
+    "question": "Which of the following is NOT mentioned in the passage as a way to encourage reading?",
+    "options": {
+      "A": "Providing interesting books",
+      "B": "Visiting the library regularly",
+      "C": "Making reading a fun activity",
+      "D": "Giving students money as a reward"
+    },
+    "answer": "D",
+    "explanation": "The passage mentions three ways to encourage reading: providing interesting books, visiting the library regularly, and making reading fun rather than a chore. Giving money as a reward is never mentioned anywhere in the passage. For 'NOT mentioned' questions, check each option against the text."
+  },
+  {
+    "id": 27,
+    "question": "As used in the passage, the word 'overemphasized' means:",
+    "options": {
+      "A": "stressed too much",
+      "B": "completely forgotten",
+      "C": "easily misunderstood",
+      "D": "clearly explained"
+    },
+    "answer": "A",
+    "explanation": "The prefix 'over-' means 'too much,' and 'emphasize' means 'to stress or highlight.' So 'overemphasized' means 'stressed too much.' The sentence 'cannot be overemphasized' means you can never stress the importance of reading too much — it is extremely important. Option B ('forgotten') is the opposite."
+  },
+  {
+    "id": 28,
+    "question": "The tone of the passage can best be described as:",
+    "options": {
+      "A": "Humorous",
+      "B": "Informative and persuasive",
+      "C": "Angry and critical",
+      "D": "Sad and depressing"
+    },
+    "answer": "B",
+    "explanation": "The passage gives facts and benefits about reading (informative) and tries to convince the reader that reading is important and should be encouraged (persuasive). There are no jokes (not humorous), no anger or criticism directed at anyone, and no sadness. 'Informative and persuasive' best describes how the writer is trying to teach and influence the reader."
+  },
+  {
+    "id": 29,
+    "question": "What is the synonym of 'courageous'?",
+    "options": {
+      "A": "Fearful",
+      "B": "Timid",
+      "C": "Brave",
+      "D": "Weak"
+    },
+    "answer": "C",
+    "explanation": "A synonym is a word with the same or very similar meaning. 'Courageous' means having courage — not being afraid to face danger or difficulty. 'Brave' means exactly the same thing. Options A ('fearful') and B ('timid') are antonyms (opposites) of courageous."
+  },
+  {
+    "id": 30,
+    "question": "What is the antonym of 'generous'?",
+    "options": {
+      "A": "Kind",
+      "B": "Selfish",
+      "C": "Wealthy",
+      "D": "Humble"
+    },
+    "answer": "B",
+    "explanation": "An antonym is a word with the opposite meaning. 'Generous' means willing to give and share with others. The direct opposite is 'selfish' — a selfish person only thinks of themselves and does not want to share. 'Kind' is actually similar in meaning to generous, and 'wealthy' relates to money, not generosity."
+  },
+  {
+    "id": 31,
+    "question": "Choose the word closest in meaning to 'ancient':",
+    "options": {
+      "A": "Modern",
+      "B": "New",
+      "C": "Recent",
+      "D": "Old"
+    },
+    "answer": "D",
+    "explanation": "'Ancient' describes something that existed very long ago, like ancient civilisations. 'Old' has the same general meaning. Options A ('modern'), B ('new'), and C ('recent') all describe the opposite — things that are not from the distant past."
+  },
+  {
+    "id": 32,
+    "question": "What is the antonym of 'expand'?",
+    "options": {
+      "A": "Grow",
+      "B": "Increase",
+      "C": "Contract",
+      "D": "Widen"
+    },
+    "answer": "C",
+    "explanation": "'Expand' means to grow larger or spread out. Its antonym (opposite) is 'contract,' which means to become smaller or shrink. Think of how a balloon expands when you blow it up and contracts when air escapes. Options A ('grow'), B ('increase'), and D ('widen') all have similar meanings to expand."
+  },
+  {
+    "id": 33,
+    "question": "Choose the synonym of 'furious':",
+    "options": {
+      "A": "Calm",
+      "B": "Happy",
+      "C": "Sad",
+      "D": "Angry"
+    },
+    "answer": "D",
+    "explanation": "'Furious' means extremely angry. 'Angry' is the synonym (closest in meaning). 'Calm' is the opposite of furious. 'Happy' and 'sad' describe entirely different emotions that have nothing to do with anger."
+  },
+  {
+    "id": 34,
+    "question": "What is the antonym of 'transparent'?",
+    "options": {
+      "A": "Clear",
+      "B": "Visible",
+      "C": "Opaque",
+      "D": "Bright"
+    },
+    "answer": "C",
+    "explanation": "'Transparent' means you can see clearly through something, like glass. Its direct opposite is 'opaque,' which means you cannot see through it at all, like a brick wall or a thick curtain. Options A ('clear') and B ('visible') are actually similar in meaning to transparent, not opposite."
+  },
+  {
+    "id": 35,
+    "question": "The synonym of 'assist' is:",
+    "options": {
+      "A": "Hinder",
+      "B": "Ignore",
+      "C": "Refuse",
+      "D": "Help"
+    },
+    "answer": "D",
+    "explanation": "'Assist' means to give support or aid to someone. 'Help' means exactly the same thing — they are synonyms. Option A ('hinder') means to get in someone's way — the direct opposite. Options B and C ('ignore' and 'refuse') describe a failure to help, not help itself."
+  },
+  {
+    "id": 36,
+    "question": "Identify the correctly written sentence:",
+    "options": {
+      "A": "The news are bad today.",
+      "B": "The news were bad today.",
+      "C": "The news is bad today.",
+      "D": "The news have been bad today."
+    },
+    "answer": "C",
+    "explanation": "'News' is an uncountable noun in English. Even though it ends in 's,' it is treated as singular and always takes a singular verb. We say 'the news is' just as we say 'the water is.' Using 'are,' 'were,' or 'have' with 'news' is a common mistake but is grammatically wrong."
+  },
+  {
+    "id": 37,
+    "question": "Which sentence is grammatically correct?",
+    "options": {
+      "A": "She don't know the answer.",
+      "B": "She doesn't knows the answer.",
+      "C": "She not know the answer.",
+      "D": "She doesn't know the answer."
+    },
+    "answer": "D",
+    "explanation": "With a third-person singular subject ('she'), the negative helper in simple present is 'does not' (shortened to 'doesn't'). After 'doesn't,' the main verb stays in its base form: 'know,' not 'knows.' Option A wrongly uses 'don't' with 'she.' Option B wrongly adds '-s' after 'doesn't.'"
+  },
+  {
+    "id": 38,
+    "question": "Choose the correct sentence:",
+    "options": {
+      "A": "He has went to the market.",
+      "B": "He have gone to the market.",
+      "C": "He has gone to the market.",
+      "D": "He had went to the market."
+    },
+    "answer": "C",
+    "explanation": "The present perfect tense is formed with 'has/have + past participle.' The past participle of 'go' is 'gone,' not 'went.' 'Went' is the simple past form and cannot be used with 'has' or 'had.' With the singular subject 'he,' the correct helper is 'has,' giving 'He has gone.'"
+  },
+  {
+    "id": 39,
+    "question": "Identify the correct sentence:",
+    "options": {
+      "A": "The committee have made their decision.",
+      "B": "The committee has made its decision.",
+      "C": "The committee has made their decision.",
+      "D": "The committee have made its decision."
+    },
+    "answer": "B",
+    "explanation": "'Committee' is a collective noun referring to the group as a single unit, so it takes a singular verb ('has') and a singular pronoun ('its'). Both the verb and the pronoun must agree: singular verb + singular pronoun. Options A and D mix singular and plural, and option C pairs the singular verb 'has' with the plural pronoun 'their.'"
+  },
+  {
+    "id": 40,
+    "question": "Which of the following sentences is correct?",
+    "options": {
+      "A": "I and my friend went to school.",
+      "B": "My friend and me went to school.",
+      "C": "Me and my friend went to school.",
+      "D": "My friend and I went to school."
+    },
+    "answer": "D",
+    "explanation": "Two rules apply here. First, when 'I' is in a compound subject, it comes last out of politeness — never first ('I and my friend' is rude and wrong). Second, the subject of a sentence requires the subject pronoun 'I,' not the object pronoun 'me.' So the correct sentence is 'My friend and I went to school.'"
+  }
+]

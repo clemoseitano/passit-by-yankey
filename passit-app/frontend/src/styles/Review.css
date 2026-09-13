@@ -1,0 +1,160 @@
+/* ── Fallback ────────────────────────────────────── */
+.review-fallback {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 16px;
+  padding-top: 60px;
+  background: var(--background);
+}
+.review-fallback p {
+  color: var(--primary);
+  font-weight: 600;
+}
+.review-fallback button {
+  padding: 12px 28px;
+  background: var(--accent);
+  color: #fff;
+  font-family: 'Inter', sans-serif;
+  font-size: 0.9375rem;
+  font-weight: 700;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+/* ── Fixed sub-header ────────────────────────────── */
+.review-header {
+  position: fixed;
+  top: 60px;
+  left: 0;
+  right: 0;
+  z-index: 500;
+  height: 48px;
+  background: var(--primary);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 20px;
+}
+.review-header-title {
+  font-size: 0.875rem;
+  font-weight: 600;
+  color: #fff;
+  letter-spacing: 0.01em;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.review-back-btn {
+  background: rgba(255, 255, 255, 0.15);
+  border: 1px solid rgba(255, 255, 255, 0.25);
+  color: #fff;
+  font-family: 'Inter', sans-serif;
+  font-size: 0.8125rem;
+  font-weight: 600;
+  padding: 5px 12px;
+  border-radius: 6px;
+  cursor: pointer;
+  white-space: nowrap;
+  flex-shrink: 0;
+  margin-left: 12px;
+  transition: background 0.12s;
+}
+.review-back-btn:hover {
+  background: rgba(255, 255, 255, 0.25);
+}
+
+/* ── Page shell ──────────────────────────────────── */
+.review-page {
+  position: fixed;
+  top: 108px;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: var(--background);
+  overflow: hidden;
+}
+
+/* ── Container ───────────────────────────────────── */
+.review-container {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  padding: 14px 16px 0;
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+/* ── Scrollable question area ────────────────────── */
+.review-scroll {
+  flex: 1;
+  overflow-y: auto;
+  -webkit-overflow-scrolling: touch;
+  scrollbar-width: thin;
+  scrollbar-color: #D1D5DB transparent;
+}
+.review-scroll::-webkit-scrollbar { width: 4px; }
+.review-scroll::-webkit-scrollbar-track { background: transparent; }
+.review-scroll::-webkit-scrollbar-thumb { background: #D1D5DB; border-radius: 4px; }
+
+/* ── Option display modifiers (review mode) ──────── */
+.option-btn--review {
+  cursor: default;
+  pointer-events: none;
+  /* align indicator on the right */
+  align-items: center;
+}
+
+/* Correct answer — always green */
+.option-btn--review.review-correct {
+  background: #22C55E;
+  border-color: #22C55E;
+  color: #fff;
+}
+
+/* Student's wrong selection — red */
+.option-btn--review.review-wrong {
+  background: #EF4444;
+  border-color: #EF4444;
+  color: #fff;
+}
+
+/* Tick / cross icon inside option */
+.option-indicator {
+  flex-shrink: 0;
+  margin-left: auto;
+  opacity: 0.95;
+}
+
+/* ── Explanation box ─────────────────────────────── */
+.review-explanation {
+  margin-top: 12px;
+  margin-bottom: 8px;
+  background: #ECFDF5;
+  border-radius: 10px;
+  border-left: 3px solid var(--accent);
+  padding: 12px 14px;
+}
+.review-explanation-label {
+  font-size: 0.7rem;
+  font-weight: 700;
+  color: var(--primary);
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  margin-bottom: 6px;
+}
+.review-explanation-text {
+  font-size: 0.875rem;
+  color: #374151;
+  line-height: 1.65;
+}
+
+/* ── Desktop ─────────────────────────────────────── */
+@media (min-width: 768px) {
+  .review-container {
+    padding: 18px 28px 0;
+  }
+}

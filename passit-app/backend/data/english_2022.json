@@ -1,0 +1,212 @@
+[
+  {
+    "id": 1,
+    "question": "Enyonam asked her friend to …………….. her a pen.",
+    "options": { "A": "borrow", "B": "lend", "C": "excuse", "D": "spare" },
+    "answer": "B",
+    "explanation": "'Lend' means to give something to someone for a while. 'Borrow' means to take something from someone. Enyonam wants the pen given TO her, so her friend must LEND it. Remember: you lend TO someone, and you borrow FROM someone."
+  },
+  {
+    "id": 2,
+    "question": "Deon said he heard the parrot …………….",
+    "options": { "A": "sang", "B": "to sing", "C": "sung", "D": "sing" },
+    "answer": "D",
+    "explanation": "After 'hear', 'see', and 'watch', we always use the plain (base) form of the verb without 'to'. So we say 'heard the parrot sing' — not 'to sing' or 'singing'. The base verb 'sing' is the correct choice after a sense verb."
+  },
+  {
+    "id": 3,
+    "question": "There is ………… water in the fridge.",
+    "options": { "A": "a lot", "B": "a little", "C": "a few", "D": "few" },
+    "answer": "B",
+    "explanation": "'Water' is an uncountable noun — you cannot say 'one water' or 'two waters'. For uncountable nouns, we use 'a little'. 'A few' and 'few' are only used with countable nouns like cups or bottles. So 'a little water' is correct."
+  },
+  {
+    "id": 4,
+    "question": "If the family house had been maintained properly, it ……….. collapsed.",
+    "options": { "A": "had not", "B": "has not", "C": "will not have", "D": "would not have" },
+    "answer": "D",
+    "explanation": "This is about something that did NOT happen — the house was not maintained properly. In English, when we talk about an unreal past situation, we use 'would have' or 'would not have'. Think: 'If you had saved money, you would not have struggled.' Same pattern here."
+  },
+  {
+    "id": 5,
+    "question": "The accident occurred ……………….the driver's mistakes.",
+    "options": { "A": "from", "B": "by", "C": "on", "D": "through" },
+    "answer": "B",
+    "explanation": "When we talk about what directly caused something to happen, we use 'by' to show the cause or agent. 'The accident occurred by the driver's mistakes' means the mistakes were the direct cause. Other prepositions like 'from' and 'through' do not fit this pattern correctly."
+  },
+  {
+    "id": 6,
+    "question": "Remy looks forward to ……………Jane at the party.",
+    "options": { "A": "see", "B": "be seeing", "C": "have been seeing", "D": "seeing" },
+    "answer": "D",
+    "explanation": "'Look forward to' always needs a verb ending in '-ing' after it. The word 'to' here is a preposition, NOT part of an infinitive, so we say 'look forward to seeing', not 'look forward to see'. Learn this as a fixed phrase."
+  },
+  {
+    "id": 7,
+    "question": "People who live in unhygienic environments easily ……….. Cholera.",
+    "options": { "A": "capture", "B": "attract", "C": "contract", "D": "catch" },
+    "answer": "C",
+    "explanation": "'Contract' is the formal English word for developing or getting a serious disease. While 'catch' is used in everyday speech, 'contract' is more correct in formal writing. 'Capture' and 'attract' do not apply to getting diseases."
+  },
+  {
+    "id": 8,
+    "question": "Their gardener was ……….. old to work.",
+    "options": { "A": "even", "B": "very", "C": "too", "D": "so" },
+    "answer": "C",
+    "explanation": "'Too' means more than what is acceptable or possible — it leads to a problem or negative result. 'Too old to work' means he is so old that working is no longer possible for him. 'Very old' would just describe his age without explaining that it stops him from working."
+  },
+  {
+    "id": 9,
+    "question": "The students did not give any reason …………being late.",
+    "options": { "A": "for", "B": "of", "C": "in", "D": "to" },
+    "answer": "A",
+    "explanation": "After the word 'reason', we always use 'for'. This is a fixed English pattern: 'a reason for doing something'. The students gave no reason FOR being late — not 'of', 'in', or 'to'. Learn this as a set phrase."
+  },
+  {
+    "id": 10,
+    "question": "I have been in this country ………. three years.",
+    "options": { "A": "for", "B": "within", "C": "through", "D": "since" },
+    "answer": "A",
+    "explanation": "'For' is used with a length or period of time, and 'since' is used with a specific point in time like 'since 2020'. The speaker has been in the country for THREE YEARS — that is a period of time — so 'for' is correct."
+  },
+  {
+    "id": 11,
+    "question": "What ………………. Kwadwo and Adwoa doing when you left the shop?",
+    "options": { "A": "is", "B": "were", "C": "was", "D": "are" },
+    "answer": "B",
+    "explanation": "The subject is 'Kwadwo and Adwoa' — two people, which is plural. The sentence is also in the past ('when you left'), so we need the plural past form. 'Were' is correct — 'was' is only for singular subjects like 'he' or 'she'."
+  },
+  {
+    "id": 12,
+    "question": "She bakes bread as a means ……………. making an extra income.",
+    "options": { "A": "for", "B": "in", "C": "to", "D": "of" },
+    "answer": "D",
+    "explanation": "The fixed English expression is 'a means of doing something' — 'of' always follows 'means' in this pattern. She bakes bread as a means OF making extra income. 'A means for' or 'a means to' are not standard in this context."
+  },
+  {
+    "id": 13,
+    "question": "Akwesi's mother was not satisfied ………….. his explanation.",
+    "options": { "A": "with", "B": "in", "C": "on", "D": "to" },
+    "answer": "A",
+    "explanation": "'Satisfied with' is a fixed phrase — 'with' always follows 'satisfied'. You are satisfied WITH the result, WITH the food, WITH the explanation. Do not use 'in', 'on', or 'to' after 'satisfied'. Learn it as a pair."
+  },
+  {
+    "id": 14,
+    "question": "I know you are …………., Esi.",
+    "options": { "A": "the tall", "B": "the taller", "C": "tallest", "D": "taller" },
+    "answer": "D",
+    "explanation": "When we compare two people or things, we use the comparative form — add '-er'. The speaker is telling Esi she is taller than others (implied comparison). 'The taller' and 'tallest' require specific context with 'the', and 'tallest' needs 'the' before it."
+  },
+  {
+    "id": 15,
+    "question": "Selfish people always consider …………… first.",
+    "options": { "A": "herself", "B": "ourselves", "C": "themselves", "D": "myself" },
+    "answer": "C",
+    "explanation": "'Selfish people' is plural — more than one person. So the reflexive pronoun must also be plural: 'themselves'. Singular pronouns like 'herself' or 'myself' do not match a plural subject. Always match the pronoun to the noun it refers to."
+  },
+  {
+    "id": 16,
+    "question": "The welfare of their students should be the concern of teachers.",
+    "options": { "A": "happiness", "B": "growth", "C": "well-being", "D": "wealth" },
+    "answer": "C",
+    "explanation": "'Welfare' covers the overall health, happiness, and comfort of a person — it is a broad word. The closest word is 'well-being', which includes all of these. 'Happiness' is only part of welfare, not the complete meaning."
+  },
+  {
+    "id": 17,
+    "question": "Mr Nunyah slaughtered some of his bulls.",
+    "options": { "A": "castrated", "B": "examined", "C": "killed", "D": "treated" },
+    "answer": "C",
+    "explanation": "'Slaughter' means to kill animals, especially for food or at a funeral. The closest simple word is 'killed'. 'Castrated' means something completely different (removing reproductive organs), and 'treated' means giving medical care — neither fits here."
+  },
+  {
+    "id": 18,
+    "question": "Her ambition is to own a private jet.",
+    "options": { "A": "joy", "B": "desire", "C": "plan", "D": "target" },
+    "answer": "B",
+    "explanation": "An 'ambition' is a strong wish or desire to achieve something in the future. The closest word is 'desire'. A 'plan' is what you do to reach your ambition, and a 'target' is what you aim at — but the root meaning of ambition is a strong desire."
+  },
+  {
+    "id": 19,
+    "question": "Soraya is very lively today.",
+    "options": { "A": "smart", "B": "active", "C": "serious", "D": "friendly" },
+    "answer": "B",
+    "explanation": "'Lively' means full of energy and enthusiasm — like a student who is very engaged and energetic in class. The closest word is 'active'. 'Smart' refers to intelligence, and 'friendly' refers to how you relate to people — both are different from being energetic."
+  },
+  {
+    "id": 20,
+    "question": "Have you enough money to buy a house?",
+    "options": { "A": "much", "B": "full", "C": "plenty", "D": "sufficient" },
+    "answer": "D",
+    "explanation": "'Enough' means the right amount needed — not too little, not too much. The formal word with the same meaning is 'sufficient'. Both 'enough' and 'sufficient' mean you have what you need to do something, like buying a house."
+  },
+  {
+    "id": 21,
+    "question": "When the old woman heard the sound of the gun-shots, her hair stood on end. This means that the old woman",
+    "options": { "A": "was worried.", "B": "became inactive.", "C": "was frightened.", "D": "started crying." },
+    "answer": "C",
+    "explanation": "'Hair stood on end' describes what happens physically to the body when someone is extremely scared — the hair rises up! It is a vivid way of saying the person was terrified. The old woman was not just worried; she was deeply frightened by the gunshots."
+  },
+  {
+    "id": 22,
+    "question": "That tailor always takes pains over his sewing. This means that the tailor",
+    "options": { "A": "finds sewing very painful.", "B": "does his sewing with great care.", "C": "is often ill and cannot sew.", "D": "is not happy sewing." },
+    "answer": "B",
+    "explanation": "To 'take pains' over something means to work on it very carefully and with great attention. The tailor does not find sewing physically painful — he just puts in a lot of effort and care. This is an idiom about hard work and attention to detail, not physical pain."
+  },
+  {
+    "id": 23,
+    "question": "Kim is full of himself. This means that Kim is",
+    "options": { "A": "arrogant.", "B": "dangerous.", "C": "greedy.", "D": "quarrelsome." },
+    "answer": "A",
+    "explanation": "'Full of himself' means a person thinks too highly of themselves — they believe they are more important or better than everyone else. The word for this is 'arrogant'. It is not about being greedy or quarrelsome, but about being too proud and self-important."
+  },
+  {
+    "id": 24,
+    "question": "These herbs grow here in leaps and bounds. This means that the herbs grow",
+    "options": { "A": "gradually and in small numbers.", "B": "in big circular heaps.", "C": "in both cold and hot weather.", "D": "quickly and greatly." },
+    "answer": "D",
+    "explanation": "'In leaps and bounds' is an idiom that means growing or improving very fast and in large amounts — like how quickly cities like Kumasi are expanding! The herbs are not growing slowly or in a small way; they are growing rapidly and in large quantities."
+  },
+  {
+    "id": 25,
+    "question": "Paul shed crocodile tears when his friend failed the exam. This means that Paul",
+    "options": { "A": "cried uncontrollably.", "B": "felt very sad but did not cry.", "C": "pretended he was sorry for his friend.", "D": "was genuinely sorry for his friend." },
+    "answer": "C",
+    "explanation": "'Crocodile tears' means fake or pretend crying — you look sad on the outside but do not really feel it inside. Paul was not truly sorry for his friend; he was just acting. Crocodiles are said to cry while eating prey — a false show of feeling."
+  },
+  {
+    "id": 26,
+    "question": "The demolition of the bridge surprised everyone.",
+    "options": { "A": "creation", "B": "construction", "C": "erection", "D": "relocation" },
+    "answer": "B",
+    "explanation": "'Demolition' means tearing down or destroying a structure. The opposite is 'construction' — which means building something up from the beginning. If you demolish a bridge, the opposite would be constructing one."
+  },
+  {
+    "id": 27,
+    "question": "Dora was exhausted after the exercise.",
+    "options": { "A": "active", "B": "cheerful", "C": "refreshed", "D": "strong" },
+    "answer": "C",
+    "explanation": "'Exhausted' means completely drained of energy — you cannot do anything more. The opposite is 'refreshed', which means feeling renewed and full of energy again, like after a good rest. 'Active' and 'strong' are not direct opposites of exhausted."
+  },
+  {
+    "id": 28,
+    "question": "The animals will perish under this condition.",
+    "options": { "A": "survive", "B": "remain", "C": "starve", "D": "graze" },
+    "answer": "A",
+    "explanation": "'Perish' means to die, especially from harsh conditions. The direct opposite is 'survive' — to continue living despite those same difficult conditions. 'Remain' just means to stay somewhere, which is not the same as staying alive."
+  },
+  {
+    "id": 29,
+    "question": "They said the film was ancient but I found it",
+    "options": { "A": "modern", "B": "relaxing", "C": "interesting", "D": "difficult" },
+    "answer": "A",
+    "explanation": "'Ancient' means very old — from a long time ago, like the ancient Asante kingdom. The direct opposite is 'modern', which means new and current. The speaker thought the film would be old but found it to be the opposite — new and current."
+  },
+  {
+    "id": 30,
+    "question": "Evans wakes up early because he does not sleep much.",
+    "options": { "A": "often", "B": "late", "C": "at home", "D": "on his bed" },
+    "answer": "B",
+    "explanation": "Evans wakes up 'early', so the opposite in this context is waking up 'late'. The other options — 'often', 'at home', and 'on his bed' — describe how or where someone sleeps, not WHEN they wake up. 'Late' is the clear antonym of 'early' here."
+  }
+]

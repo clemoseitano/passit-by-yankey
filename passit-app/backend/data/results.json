@@ -1,0 +1,878 @@
+[
+  {
+    "id": 1787145973730,
+    "name": "A",
+    "dob": "2026-02-19",
+    "subject": "English Language",
+    "year": "2024",
+    "score": 13,
+    "total": 40,
+    "date": "2026-08-19T13:26:13.730Z",
+    "breakdown": [
+      {
+        "id": 1,
+        "correct": false,
+        "correctAnswer": "C",
+        "selectedAnswer": "A",
+        "explanation": "This sentence is about something that did NOT happen — Azameti did not win gold. In English, when we talk about an unreal past situation, the pattern is: 'If + had, would have'. Think of it like this: 'If Kotoko had won, the fans would have celebrated.' Same pattern — so 'would have jubilated' is correct."
+      },
+      {
+        "id": 2,
+        "correct": false,
+        "correctAnswer": "B",
+        "selectedAnswer": "C",
+        "explanation": "English adjectives have a fixed order: opinion words come first (like 'delicious'), then quality words (like 'spicy'), then origin words last (like 'Spanish'). So 'delicious spicy Spanish meal' is correct. Mixing up the order sounds unnatural to a native speaker."
+      },
+      {
+        "id": 3,
+        "correct": true,
+        "correctAnswer": "D",
+        "selectedAnswer": "D",
+        "explanation": "When there are exactly TWO things and the sentence is negative (uses 'not'), we use 'either'. Ali's parents 'have not bought either of the two books' — meaning none of the two was bought. 'Neither' would need a positive verb like 'bought', so it does not fit here."
+      },
+      {
+        "id": 4,
+        "correct": true,
+        "correctAnswer": "D",
+        "selectedAnswer": "D",
+        "explanation": "'Allergic to' is a fixed phrase in English — 'to' always follows 'allergic'. Just like we say 'afraid of' or 'good at', each adjective has its own preposition partner. So the correct phrase is 'allergic to dust'."
+      },
+      {
+        "id": 5,
+        "correct": true,
+        "correctAnswer": "C",
+        "selectedAnswer": "C",
+        "explanation": "After verbs of the senses like 'see', 'hear', and 'watch', we use the plain (base) form of the verb without 'to'. So we say 'saw the thief run', not 'to run' or 'running'. This is a special rule — the base verb always follows these sense verbs."
+      },
+      {
+        "id": 6,
+        "correct": false,
+        "correctAnswer": "B",
+        "selectedAnswer": "C",
+        "explanation": "After 'it is time', we use the past simple tense even though we are talking about the present. So 'it was time they left' means 'they should leave now'. This is a special English rule — past tense here does not mean the past; it means it should happen right now."
+      },
+      {
+        "id": 7,
+        "correct": true,
+        "correctAnswer": "D",
+        "selectedAnswer": "D",
+        "explanation": "'Yet' is used to show contrast and surprise — it connects two ideas that seem to contradict each other. Here, it rained heavily BUT the match still went on — that is surprising! 'And' would just add information, not show the unexpected contrast."
+      },
+      {
+        "id": 8,
+        "correct": false,
+        "correctAnswer": "B",
+        "selectedAnswer": "D",
+        "explanation": "In question tags, when the main sentence is negative (uses 'haven't'), the tag must be positive ('have you?'). It is the rule of opposites — negative sentence, positive tag. So 'You haven't met, have you?' is correct."
+      },
+      {
+        "id": 9,
+        "correct": false,
+        "correctAnswer": "B",
+        "selectedAnswer": "D",
+        "explanation": "When a number describes a group before a noun, we join them with a hyphen and use the singular form: 'a seven-member panel'. Think of it like 'a ten-year-old child' — hyphen, singular, no apostrophe. The number and noun become one describing unit."
+      },
+      {
+        "id": 10,
+        "correct": false,
+        "correctAnswer": "A",
+        "selectedAnswer": "D",
+        "explanation": "'Milder' is a comparative word — used when comparing exactly TWO things. Since we are comparing two fragrances, we say 'which of the two is milder?' If there were many fragrances, we would use the superlative 'mildest'. 'Two' is the clue."
+      },
+      {
+        "id": 11,
+        "correct": true,
+        "correctAnswer": "C",
+        "selectedAnswer": "C",
+        "explanation": "'Eclipse' is mentioned for the first time, so we use 'an' before it. But 'sun' refers to the only sun everyone shares, so it always takes 'the'. Put them together: 'an eclipse of the sun'. This follows two important article rules at once."
+      },
+      {
+        "id": 12,
+        "correct": true,
+        "correctAnswer": "D",
+        "selectedAnswer": "D",
+        "explanation": "When we compare one person to EVERYONE ELSE in a group, we use the superlative. Eugenia arrived before all other participants, so we say she got there 'most early'. If she were being compared to just one other person, we would use 'earlier'."
+      },
+      {
+        "id": 13,
+        "correct": false,
+        "correctAnswer": "A",
+        "selectedAnswer": "D",
+        "explanation": "'Who' is used for people when they are doing the action in the clause — the subject. Afiba's aunt 'lives' in Tamale — the aunt is the one living there, so she is the subject. 'Who' is correct. 'Which' is for things, not people."
+      },
+      {
+        "id": 14,
+        "correct": false,
+        "correctAnswer": "D",
+        "selectedAnswer": "C",
+        "explanation": "When we report what someone said in the past, we change the tense back. 'I will keep my word' becomes 'Kende promised to keep her word.' The reporting verb 'promised' is past tense, and this is the standard reported speech pattern."
+      },
+      {
+        "id": 15,
+        "correct": true,
+        "correctAnswer": "C",
+        "selectedAnswer": "C",
+        "explanation": "The original sentence uses past tense ('gave'), so the passive form must also be past tense. The passive formula is 'was/were + past participle'. Linda is one person (singular), so we use 'was given'. 'Is' or 'has been' would give the wrong tense."
+      },
+      {
+        "id": 16,
+        "correct": false,
+        "correctAnswer": "C",
+        "selectedAnswer": "D",
+        "explanation": "'Wondered' means to think about something with curiosity — you want to know the answer. Asabea was not sad or frustrated; she was just curious about her grandfather's slow walking. 'Was curious about why' captures this meaning most closely."
+      },
+      {
+        "id": 17,
+        "correct": false,
+        "correctAnswer": "A",
+        "selectedAnswer": "D",
+        "explanation": "A 'proposal' is when you formally put forward an idea or plan for others to consider and decide on. The closest simple word is 'suggestion' — you are suggesting something for people to think about and accept or reject."
+      },
+      {
+        "id": 18,
+        "correct": true,
+        "correctAnswer": "D",
+        "selectedAnswer": "D",
+        "explanation": "'Assertive' means speaking up confidently and standing your ground without being rude or backing down. The closest word is 'bold'. Being 'muscular' or 'strong' is about physical power, which is a different thing from being assertive."
+      },
+      {
+        "id": 19,
+        "correct": true,
+        "correctAnswer": "D",
+        "selectedAnswer": "D",
+        "explanation": "'Rampant' describes something spreading fast and completely out of control — like a fire no one is stopping. The closest word is 'uncontrolled'. 'Common' just means it happens often, which is not the same as being out of control."
+      },
+      {
+        "id": 20,
+        "correct": false,
+        "correctAnswer": "C",
+        "selectedAnswer": "D",
+        "explanation": "'Salient' means the most noticeable and significant points — the key ideas. Think of it as the points a good teacher writes on the board — the most important ones. 'Important' is the closest everyday synonym."
+      },
+      {
+        "id": 21,
+        "correct": false,
+        "correctAnswer": "C",
+        "selectedAnswer": "D",
+        "explanation": "'Get the better of someone' means to overcome or overpower them. When anger gets the better of you, it takes control and you stop thinking clearly. The chief is warning his subjects not to let anger overpower their actions and decisions."
+      },
+      {
+        "id": 22,
+        "correct": true,
+        "correctAnswer": "D",
+        "selectedAnswer": "D",
+        "explanation": "A 'wet blanket' is someone who kills other people's enthusiasm by being negative. Afua was pulling her brother down instead of lifting him up — she was discouraging him. The phrase means she liked to dampen his spirits and discourage him."
+      },
+      {
+        "id": 23,
+        "correct": false,
+        "correctAnswer": "A",
+        "selectedAnswer": "D",
+        "explanation": "To 'eat your words' means to admit you were wrong after events proved you incorrect. Asuo had made a prediction, but Kotoko lost and proved him wrong. He had to admit his prediction was wrong — he ate his words."
+      },
+      {
+        "id": 24,
+        "correct": false,
+        "correctAnswer": "B",
+        "selectedAnswer": "D",
+        "explanation": "'Paid back in your own coins' means treated in the same bad way you treated others — like the saying 'what goes around comes around'. Since the person was a fraudster who cheated people, he got cheated in return. He was swindled."
+      },
+      {
+        "id": 25,
+        "correct": false,
+        "correctAnswer": "B",
+        "selectedAnswer": "C",
+        "explanation": "To 'hit the nail on the head' means to say exactly the right thing — perfectly accurate. Yaaba's statement about hard work was spot on and exactly true. So the phrase means she told the truth with great accuracy."
+      },
+      {
+        "id": 26,
+        "correct": false,
+        "correctAnswer": "A",
+        "selectedAnswer": "C",
+        "explanation": "'Temporarily' means for a short time only — things will change back later. The opposite is 'permanently', which means forever with no plan to change. If a shop closes temporarily, it will reopen; if permanently, it never reopens."
+      },
+      {
+        "id": 27,
+        "correct": false,
+        "correctAnswer": "A",
+        "selectedAnswer": "B",
+        "explanation": "'Theoretical' means in ideas or on paper — not yet done in real life. The opposite is 'practical', which means doing things for real in the real world. Some exercises look easy when you just read about them but become hard when you actually try."
+      },
+      {
+        "id": 28,
+        "correct": false,
+        "correctAnswer": "A",
+        "selectedAnswer": "C",
+        "explanation": "A 'cure' treats a disease AFTER you already have it. The better option is to stop the disease BEFORE it starts — that is 'prevention'. The opposite of curing is preventing the disease from happening at all, so 'prevent' is the answer."
+      },
+      {
+        "id": 29,
+        "correct": false,
+        "correctAnswer": "B",
+        "selectedAnswer": "D",
+        "explanation": "The sentence talks about something that 'began' and asks where it will end. 'Cease' is the opposite of 'begin' — it means to stop or come to an end. So the missing word is 'cease', meaning where this thing will finally stop."
+      },
+      {
+        "id": 30,
+        "correct": true,
+        "correctAnswer": "B",
+        "selectedAnswer": "B",
+        "explanation": "'Abundant' rainfall means a lot of rain — more than enough. The opposite is 'scanty' moisture, which means very little — barely enough. Regions with plenty of rain are very different from those where water is scarce."
+      },
+      {
+        "id": 31,
+        "correct": false,
+        "correctAnswer": "D",
+        "selectedAnswer": "B",
+        "explanation": "At any formal meeting, the 'attendance list' is the official record that shows who came. A member checking whether their name was correctly written would look at the attendance list — the one that records who was present."
+      },
+      {
+        "id": 32,
+        "correct": false,
+        "correctAnswer": "A",
+        "selectedAnswer": "C",
+        "explanation": "In formal meetings, a 'motion' is a formal proposal that is introduced, discussed, and voted on by members. 'Motions' is the correct meeting vocabulary here. 'Ideas' and 'decisions' are too casual for official meeting language."
+      },
+      {
+        "id": 33,
+        "correct": true,
+        "correctAnswer": "D",
+        "selectedAnswer": "D",
+        "explanation": "In formal meeting language, to 'move' means to formally propose something for the group to agree on. A member 'moves' for the meeting to close. This is official meeting vocabulary — 'recommend' and 'call' do not carry the same formal weight here."
+      },
+      {
+        "id": 34,
+        "correct": false,
+        "correctAnswer": "B",
+        "selectedAnswer": "D",
+        "explanation": "When one person 'moves' a proposal in a formal meeting, another person must 'second' it — meaning they officially support it so it can be discussed and voted on. This is a key step in meeting procedure. 'Seconded' is the correct formal term."
+      },
+      {
+        "id": 35,
+        "correct": false,
+        "correctAnswer": "A",
+        "selectedAnswer": "C",
+        "explanation": "A meeting is 'adjourned' when it officially ends with plans to meet again on another day. This is the correct formal word. 'Postponed' is used when something is pushed to a later time BEFORE it even starts — not after it has already taken place."
+      },
+      {
+        "id": 36,
+        "correct": false,
+        "correctAnswer": "B",
+        "selectedAnswer": "C",
+        "explanation": "The word 'arch' ends with the /tʃ/ sound — like in 'church' or 'match'. 'Patch' also ends with that same /tʃ/ sound. 'Path' ends with a 'th' sound, and 'splash' ends with 'sh' — both different sounds from 'arch'."
+      },
+      {
+        "id": 37,
+        "correct": false,
+        "correctAnswer": "C",
+        "selectedAnswer": "D",
+        "explanation": "The word 'chef' begins with the /ʃ/ sound — like the 'sh' in 'shoe' or 'sheep'. 'Shield' also begins with 'sh', giving it the same /ʃ/ sound. 'Chair' starts with /tʃ/ like 'church', and 'chord' starts with /k/ — both are different sounds."
+      },
+      {
+        "id": 38,
+        "correct": true,
+        "correctAnswer": "D",
+        "selectedAnswer": "D",
+        "explanation": "The word 'sprang' starts with the consonant cluster 'spr' — three sounds together: s, p, r. 'Splashed' starts with 'spl' — also three consonants: s, p, l. Both words start with a three-consonant cluster beginning with 'sp', making their sound patterns similar."
+      },
+      {
+        "id": 39,
+        "correct": false,
+        "correctAnswer": "D",
+        "selectedAnswer": "C",
+        "explanation": "'Whole' is pronounced with the /oʊ/ vowel sound — it rhymes with 'hole' and 'soul'. 'Gaol' is an old spelling of 'jail' and shares that same /oʊ/ vowel sound with 'Whole'. Say them both carefully and you will hear the match."
+      },
+      {
+        "id": 40,
+        "correct": false,
+        "correctAnswer": "C",
+        "selectedAnswer": "D",
+        "explanation": "'Heir' is pronounced exactly like 'air' — the 'h' is completely silent! Say them both: 'heir', 'air' — they sound identical. 'Here' has a different vowel sound /hɪər/, and 'hew' sounds like /hjuː/ — both very different from 'heir'."
+      }
+    ]
+  },
+  {
+    "id": 1787146398767,
+    "name": "Ama",
+    "dob": "1995-12-13",
+    "subject": "English Language",
+    "year": "2024",
+    "score": 10,
+    "total": 40,
+    "date": "2026-08-19T13:33:18.767Z",
+    "breakdown": [
+      {
+        "id": 1,
+        "correct": false,
+        "correctAnswer": "C",
+        "selectedAnswer": "A",
+        "explanation": "This sentence is about something that did NOT happen — Azameti did not win gold. In English, when we talk about an unreal past situation, the pattern is: 'If + had, would have'. Think of it like this: 'If Kotoko had won, the fans would have celebrated.' Same pattern — so 'would have jubilated' is correct."
+      },
+      {
+        "id": 2,
+        "correct": false,
+        "correctAnswer": "B",
+        "selectedAnswer": "D",
+        "explanation": "English adjectives have a fixed order: opinion words come first (like 'delicious'), then quality words (like 'spicy'), then origin words last (like 'Spanish'). So 'delicious spicy Spanish meal' is correct. Mixing up the order sounds unnatural to a native speaker."
+      },
+      {
+        "id": 3,
+        "correct": false,
+        "correctAnswer": "D",
+        "selectedAnswer": "B",
+        "explanation": "When there are exactly TWO things and the sentence is negative (uses 'not'), we use 'either'. Ali's parents 'have not bought either of the two books' — meaning none of the two was bought. 'Neither' would need a positive verb like 'bought', so it does not fit here."
+      },
+      {
+        "id": 4,
+        "correct": false,
+        "correctAnswer": "D",
+        "selectedAnswer": "C",
+        "explanation": "'Allergic to' is a fixed phrase in English — 'to' always follows 'allergic'. Just like we say 'afraid of' or 'good at', each adjective has its own preposition partner. So the correct phrase is 'allergic to dust'."
+      },
+      {
+        "id": 5,
+        "correct": false,
+        "correctAnswer": "C",
+        "selectedAnswer": "D",
+        "explanation": "After verbs of the senses like 'see', 'hear', and 'watch', we use the plain (base) form of the verb without 'to'. So we say 'saw the thief run', not 'to run' or 'running'. This is a special rule — the base verb always follows these sense verbs."
+      },
+      {
+        "id": 6,
+        "correct": false,
+        "correctAnswer": "B",
+        "selectedAnswer": "C",
+        "explanation": "After 'it is time', we use the past simple tense even though we are talking about the present. So 'it was time they left' means 'they should leave now'. This is a special English rule — past tense here does not mean the past; it means it should happen right now."
+      },
+      {
+        "id": 7,
+        "correct": false,
+        "correctAnswer": "D",
+        "selectedAnswer": "C",
+        "explanation": "'Yet' is used to show contrast and surprise — it connects two ideas that seem to contradict each other. Here, it rained heavily BUT the match still went on — that is surprising! 'And' would just add information, not show the unexpected contrast."
+      },
+      {
+        "id": 8,
+        "correct": false,
+        "correctAnswer": "B",
+        "selectedAnswer": "D",
+        "explanation": "In question tags, when the main sentence is negative (uses 'haven't'), the tag must be positive ('have you?'). It is the rule of opposites — negative sentence, positive tag. So 'You haven't met, have you?' is correct."
+      },
+      {
+        "id": 9,
+        "correct": true,
+        "correctAnswer": "B",
+        "selectedAnswer": "B",
+        "explanation": "When a number describes a group before a noun, we join them with a hyphen and use the singular form: 'a seven-member panel'. Think of it like 'a ten-year-old child' — hyphen, singular, no apostrophe. The number and noun become one describing unit."
+      },
+      {
+        "id": 10,
+        "correct": false,
+        "correctAnswer": "A",
+        "selectedAnswer": "D",
+        "explanation": "'Milder' is a comparative word — used when comparing exactly TWO things. Since we are comparing two fragrances, we say 'which of the two is milder?' If there were many fragrances, we would use the superlative 'mildest'. 'Two' is the clue."
+      },
+      {
+        "id": 11,
+        "correct": true,
+        "correctAnswer": "C",
+        "selectedAnswer": "C",
+        "explanation": "'Eclipse' is mentioned for the first time, so we use 'an' before it. But 'sun' refers to the only sun everyone shares, so it always takes 'the'. Put them together: 'an eclipse of the sun'. This follows two important article rules at once."
+      },
+      {
+        "id": 12,
+        "correct": false,
+        "correctAnswer": "D",
+        "selectedAnswer": "B",
+        "explanation": "When we compare one person to EVERYONE ELSE in a group, we use the superlative. Eugenia arrived before all other participants, so we say she got there 'most early'. If she were being compared to just one other person, we would use 'earlier'."
+      },
+      {
+        "id": 13,
+        "correct": false,
+        "correctAnswer": "A",
+        "selectedAnswer": "D",
+        "explanation": "'Who' is used for people when they are doing the action in the clause — the subject. Afiba's aunt 'lives' in Tamale — the aunt is the one living there, so she is the subject. 'Who' is correct. 'Which' is for things, not people."
+      },
+      {
+        "id": 14,
+        "correct": false,
+        "correctAnswer": "D",
+        "selectedAnswer": "B",
+        "explanation": "When we report what someone said in the past, we change the tense back. 'I will keep my word' becomes 'Kende promised to keep her word.' The reporting verb 'promised' is past tense, and this is the standard reported speech pattern."
+      },
+      {
+        "id": 15,
+        "correct": true,
+        "correctAnswer": "C",
+        "selectedAnswer": "C",
+        "explanation": "The original sentence uses past tense ('gave'), so the passive form must also be past tense. The passive formula is 'was/were + past participle'. Linda is one person (singular), so we use 'was given'. 'Is' or 'has been' would give the wrong tense."
+      },
+      {
+        "id": 16,
+        "correct": false,
+        "correctAnswer": "C",
+        "selectedAnswer": "D",
+        "explanation": "'Wondered' means to think about something with curiosity — you want to know the answer. Asabea was not sad or frustrated; she was just curious about her grandfather's slow walking. 'Was curious about why' captures this meaning most closely."
+      },
+      {
+        "id": 17,
+        "correct": false,
+        "correctAnswer": "A",
+        "selectedAnswer": "C",
+        "explanation": "A 'proposal' is when you formally put forward an idea or plan for others to consider and decide on. The closest simple word is 'suggestion' — you are suggesting something for people to think about and accept or reject."
+      },
+      {
+        "id": 18,
+        "correct": true,
+        "correctAnswer": "D",
+        "selectedAnswer": "D",
+        "explanation": "'Assertive' means speaking up confidently and standing your ground without being rude or backing down. The closest word is 'bold'. Being 'muscular' or 'strong' is about physical power, which is a different thing from being assertive."
+      },
+      {
+        "id": 19,
+        "correct": true,
+        "correctAnswer": "D",
+        "selectedAnswer": "D",
+        "explanation": "'Rampant' describes something spreading fast and completely out of control — like a fire no one is stopping. The closest word is 'uncontrolled'. 'Common' just means it happens often, which is not the same as being out of control."
+      },
+      {
+        "id": 20,
+        "correct": true,
+        "correctAnswer": "C",
+        "selectedAnswer": "C",
+        "explanation": "'Salient' means the most noticeable and significant points — the key ideas. Think of it as the points a good teacher writes on the board — the most important ones. 'Important' is the closest everyday synonym."
+      },
+      {
+        "id": 21,
+        "correct": false,
+        "correctAnswer": "C",
+        "selectedAnswer": "B",
+        "explanation": "'Get the better of someone' means to overcome or overpower them. When anger gets the better of you, it takes control and you stop thinking clearly. The chief is warning his subjects not to let anger overpower their actions and decisions."
+      },
+      {
+        "id": 22,
+        "correct": true,
+        "correctAnswer": "D",
+        "selectedAnswer": "D",
+        "explanation": "A 'wet blanket' is someone who kills other people's enthusiasm by being negative. Afua was pulling her brother down instead of lifting him up — she was discouraging him. The phrase means she liked to dampen his spirits and discourage him."
+      },
+      {
+        "id": 23,
+        "correct": false,
+        "correctAnswer": "A",
+        "selectedAnswer": "D",
+        "explanation": "To 'eat your words' means to admit you were wrong after events proved you incorrect. Asuo had made a prediction, but Kotoko lost and proved him wrong. He had to admit his prediction was wrong — he ate his words."
+      },
+      {
+        "id": 24,
+        "correct": false,
+        "correctAnswer": "B",
+        "selectedAnswer": "D",
+        "explanation": "'Paid back in your own coins' means treated in the same bad way you treated others — like the saying 'what goes around comes around'. Since the person was a fraudster who cheated people, he got cheated in return. He was swindled."
+      },
+      {
+        "id": 25,
+        "correct": false,
+        "correctAnswer": "B",
+        "selectedAnswer": "C",
+        "explanation": "To 'hit the nail on the head' means to say exactly the right thing — perfectly accurate. Yaaba's statement about hard work was spot on and exactly true. So the phrase means she told the truth with great accuracy."
+      },
+      {
+        "id": 26,
+        "correct": false,
+        "correctAnswer": "A",
+        "selectedAnswer": "D",
+        "explanation": "'Temporarily' means for a short time only — things will change back later. The opposite is 'permanently', which means forever with no plan to change. If a shop closes temporarily, it will reopen; if permanently, it never reopens."
+      },
+      {
+        "id": 27,
+        "correct": false,
+        "correctAnswer": "A",
+        "selectedAnswer": "C",
+        "explanation": "'Theoretical' means in ideas or on paper — not yet done in real life. The opposite is 'practical', which means doing things for real in the real world. Some exercises look easy when you just read about them but become hard when you actually try."
+      },
+      {
+        "id": 28,
+        "correct": false,
+        "correctAnswer": "A",
+        "selectedAnswer": "D",
+        "explanation": "A 'cure' treats a disease AFTER you already have it. The better option is to stop the disease BEFORE it starts — that is 'prevention'. The opposite of curing is preventing the disease from happening at all, so 'prevent' is the answer."
+      },
+      {
+        "id": 29,
+        "correct": false,
+        "correctAnswer": "B",
+        "selectedAnswer": "C",
+        "explanation": "The sentence talks about something that 'began' and asks where it will end. 'Cease' is the opposite of 'begin' — it means to stop or come to an end. So the missing word is 'cease', meaning where this thing will finally stop."
+      },
+      {
+        "id": 30,
+        "correct": false,
+        "correctAnswer": "B",
+        "selectedAnswer": "D",
+        "explanation": "'Abundant' rainfall means a lot of rain — more than enough. The opposite is 'scanty' moisture, which means very little — barely enough. Regions with plenty of rain are very different from those where water is scarce."
+      },
+      {
+        "id": 31,
+        "correct": false,
+        "correctAnswer": "D",
+        "selectedAnswer": "C",
+        "explanation": "At any formal meeting, the 'attendance list' is the official record that shows who came. A member checking whether their name was correctly written would look at the attendance list — the one that records who was present."
+      },
+      {
+        "id": 32,
+        "correct": false,
+        "correctAnswer": "A",
+        "selectedAnswer": "D",
+        "explanation": "In formal meetings, a 'motion' is a formal proposal that is introduced, discussed, and voted on by members. 'Motions' is the correct meeting vocabulary here. 'Ideas' and 'decisions' are too casual for official meeting language."
+      },
+      {
+        "id": 33,
+        "correct": true,
+        "correctAnswer": "D",
+        "selectedAnswer": "D",
+        "explanation": "In formal meeting language, to 'move' means to formally propose something for the group to agree on. A member 'moves' for the meeting to close. This is official meeting vocabulary — 'recommend' and 'call' do not carry the same formal weight here."
+      },
+      {
+        "id": 34,
+        "correct": false,
+        "correctAnswer": "B",
+        "selectedAnswer": "C",
+        "explanation": "When one person 'moves' a proposal in a formal meeting, another person must 'second' it — meaning they officially support it so it can be discussed and voted on. This is a key step in meeting procedure. 'Seconded' is the correct formal term."
+      },
+      {
+        "id": 35,
+        "correct": false,
+        "correctAnswer": "A",
+        "selectedAnswer": "B",
+        "explanation": "A meeting is 'adjourned' when it officially ends with plans to meet again on another day. This is the correct formal word. 'Postponed' is used when something is pushed to a later time BEFORE it even starts — not after it has already taken place."
+      },
+      {
+        "id": 36,
+        "correct": false,
+        "correctAnswer": "B",
+        "selectedAnswer": "C",
+        "explanation": "The word 'arch' ends with the /tʃ/ sound — like in 'church' or 'match'. 'Patch' also ends with that same /tʃ/ sound. 'Path' ends with a 'th' sound, and 'splash' ends with 'sh' — both different sounds from 'arch'."
+      },
+      {
+        "id": 37,
+        "correct": false,
+        "correctAnswer": "C",
+        "selectedAnswer": "A",
+        "explanation": "The word 'chef' begins with the /ʃ/ sound — like the 'sh' in 'shoe' or 'sheep'. 'Shield' also begins with 'sh', giving it the same /ʃ/ sound. 'Chair' starts with /tʃ/ like 'church', and 'chord' starts with /k/ — both are different sounds."
+      },
+      {
+        "id": 38,
+        "correct": true,
+        "correctAnswer": "D",
+        "selectedAnswer": "D",
+        "explanation": "The word 'sprang' starts with the consonant cluster 'spr' — three sounds together: s, p, r. 'Splashed' starts with 'spl' — also three consonants: s, p, l. Both words start with a three-consonant cluster beginning with 'sp', making their sound patterns similar."
+      },
+      {
+        "id": 39,
+        "correct": false,
+        "correctAnswer": "D",
+        "selectedAnswer": "B",
+        "explanation": "'Whole' is pronounced with the /oʊ/ vowel sound — it rhymes with 'hole' and 'soul'. 'Gaol' is an old spelling of 'jail' and shares that same /oʊ/ vowel sound with 'Whole'. Say them both carefully and you will hear the match."
+      },
+      {
+        "id": 40,
+        "correct": true,
+        "correctAnswer": "C",
+        "selectedAnswer": "C",
+        "explanation": "'Heir' is pronounced exactly like 'air' — the 'h' is completely silent! Say them both: 'heir', 'air' — they sound identical. 'Here' has a different vowel sound /hɪər/, and 'hew' sounds like /hjuː/ — both very different from 'heir'."
+      }
+    ]
+  },
+  {
+    "id": 1787146897432,
+    "name": "Ama",
+    "dob": "1995-11-13",
+    "subject": "English Language",
+    "year": "2024",
+    "score": 5,
+    "total": 40,
+    "date": "2026-08-19T13:41:37.432Z",
+    "breakdown": [
+      {
+        "id": 1,
+        "correct": false,
+        "correctAnswer": "C",
+        "selectedAnswer": "B",
+        "explanation": "This sentence is about something that did NOT happen — Azameti did not win gold. In English, when we talk about an unreal past situation, the pattern is: 'If + had, would have'. Think of it like this: 'If Kotoko had won, the fans would have celebrated.' Same pattern — so 'would have jubilated' is correct."
+      },
+      {
+        "id": 2,
+        "correct": false,
+        "correctAnswer": "B",
+        "selectedAnswer": "C",
+        "explanation": "English adjectives have a fixed order: opinion words come first (like 'delicious'), then quality words (like 'spicy'), then origin words last (like 'Spanish'). So 'delicious spicy Spanish meal' is correct. Mixing up the order sounds unnatural to a native speaker."
+      },
+      {
+        "id": 3,
+        "correct": true,
+        "correctAnswer": "D",
+        "selectedAnswer": "D",
+        "explanation": "When there are exactly TWO things and the sentence is negative (uses 'not'), we use 'either'. Ali's parents 'have not bought either of the two books' — meaning none of the two was bought. 'Neither' would need a positive verb like 'bought', so it does not fit here."
+      },
+      {
+        "id": 4,
+        "correct": false,
+        "correctAnswer": "D",
+        "selectedAnswer": "B",
+        "explanation": "'Allergic to' is a fixed phrase in English — 'to' always follows 'allergic'. Just like we say 'afraid of' or 'good at', each adjective has its own preposition partner. So the correct phrase is 'allergic to dust'."
+      },
+      {
+        "id": 5,
+        "correct": false,
+        "correctAnswer": "C",
+        "selectedAnswer": "D",
+        "explanation": "After verbs of the senses like 'see', 'hear', and 'watch', we use the plain (base) form of the verb without 'to'. So we say 'saw the thief run', not 'to run' or 'running'. This is a special rule — the base verb always follows these sense verbs."
+      },
+      {
+        "id": 6,
+        "correct": false,
+        "correctAnswer": "B",
+        "selectedAnswer": "C",
+        "explanation": "After 'it is time', we use the past simple tense even though we are talking about the present. So 'it was time they left' means 'they should leave now'. This is a special English rule — past tense here does not mean the past; it means it should happen right now."
+      },
+      {
+        "id": 7,
+        "correct": false,
+        "correctAnswer": "D",
+        "selectedAnswer": "B",
+        "explanation": "'Yet' is used to show contrast and surprise — it connects two ideas that seem to contradict each other. Here, it rained heavily BUT the match still went on — that is surprising! 'And' would just add information, not show the unexpected contrast."
+      },
+      {
+        "id": 8,
+        "correct": false,
+        "correctAnswer": "B",
+        "selectedAnswer": "D",
+        "explanation": "In question tags, when the main sentence is negative (uses 'haven't'), the tag must be positive ('have you?'). It is the rule of opposites — negative sentence, positive tag. So 'You haven't met, have you?' is correct."
+      },
+      {
+        "id": 9,
+        "correct": false,
+        "correctAnswer": "B",
+        "selectedAnswer": "D",
+        "explanation": "When a number describes a group before a noun, we join them with a hyphen and use the singular form: 'a seven-member panel'. Think of it like 'a ten-year-old child' — hyphen, singular, no apostrophe. The number and noun become one describing unit."
+      },
+      {
+        "id": 10,
+        "correct": false,
+        "correctAnswer": "A",
+        "selectedAnswer": "C",
+        "explanation": "'Milder' is a comparative word — used when comparing exactly TWO things. Since we are comparing two fragrances, we say 'which of the two is milder?' If there were many fragrances, we would use the superlative 'mildest'. 'Two' is the clue."
+      },
+      {
+        "id": 11,
+        "correct": false,
+        "correctAnswer": "C",
+        "selectedAnswer": "B",
+        "explanation": "'Eclipse' is mentioned for the first time, so we use 'an' before it. But 'sun' refers to the only sun everyone shares, so it always takes 'the'. Put them together: 'an eclipse of the sun'. This follows two important article rules at once."
+      },
+      {
+        "id": 12,
+        "correct": false,
+        "correctAnswer": "D",
+        "selectedAnswer": "A",
+        "explanation": "When we compare one person to EVERYONE ELSE in a group, we use the superlative. Eugenia arrived before all other participants, so we say she got there 'most early'. If she were being compared to just one other person, we would use 'earlier'."
+      },
+      {
+        "id": 13,
+        "correct": true,
+        "correctAnswer": "A",
+        "selectedAnswer": "A",
+        "explanation": "'Who' is used for people when they are doing the action in the clause — the subject. Afiba's aunt 'lives' in Tamale — the aunt is the one living there, so she is the subject. 'Who' is correct. 'Which' is for things, not people."
+      },
+      {
+        "id": 14,
+        "correct": false,
+        "correctAnswer": "D",
+        "selectedAnswer": "B",
+        "explanation": "When we report what someone said in the past, we change the tense back. 'I will keep my word' becomes 'Kende promised to keep her word.' The reporting verb 'promised' is past tense, and this is the standard reported speech pattern."
+      },
+      {
+        "id": 15,
+        "correct": false,
+        "correctAnswer": "C",
+        "selectedAnswer": "B",
+        "explanation": "The original sentence uses past tense ('gave'), so the passive form must also be past tense. The passive formula is 'was/were + past participle'. Linda is one person (singular), so we use 'was given'. 'Is' or 'has been' would give the wrong tense."
+      },
+      {
+        "id": 16,
+        "correct": false,
+        "correctAnswer": "C",
+        "selectedAnswer": "D",
+        "explanation": "'Wondered' means to think about something with curiosity — you want to know the answer. Asabea was not sad or frustrated; she was just curious about her grandfather's slow walking. 'Was curious about why' captures this meaning most closely."
+      },
+      {
+        "id": 17,
+        "correct": false,
+        "correctAnswer": "A",
+        "selectedAnswer": "C",
+        "explanation": "A 'proposal' is when you formally put forward an idea or plan for others to consider and decide on. The closest simple word is 'suggestion' — you are suggesting something for people to think about and accept or reject."
+      },
+      {
+        "id": 18,
+        "correct": false,
+        "correctAnswer": "D",
+        "selectedAnswer": "A",
+        "explanation": "'Assertive' means speaking up confidently and standing your ground without being rude or backing down. The closest word is 'bold'. Being 'muscular' or 'strong' is about physical power, which is a different thing from being assertive."
+      },
+      {
+        "id": 19,
+        "correct": false,
+        "correctAnswer": "D",
+        "selectedAnswer": "B",
+        "explanation": "'Rampant' describes something spreading fast and completely out of control — like a fire no one is stopping. The closest word is 'uncontrolled'. 'Common' just means it happens often, which is not the same as being out of control."
+      },
+      {
+        "id": 20,
+        "correct": false,
+        "correctAnswer": "C",
+        "selectedAnswer": "A",
+        "explanation": "'Salient' means the most noticeable and significant points — the key ideas. Think of it as the points a good teacher writes on the board — the most important ones. 'Important' is the closest everyday synonym."
+      },
+      {
+        "id": 21,
+        "correct": false,
+        "correctAnswer": "C",
+        "selectedAnswer": "D",
+        "explanation": "'Get the better of someone' means to overcome or overpower them. When anger gets the better of you, it takes control and you stop thinking clearly. The chief is warning his subjects not to let anger overpower their actions and decisions."
+      },
+      {
+        "id": 22,
+        "correct": false,
+        "correctAnswer": "D",
+        "selectedAnswer": "C",
+        "explanation": "A 'wet blanket' is someone who kills other people's enthusiasm by being negative. Afua was pulling her brother down instead of lifting him up — she was discouraging him. The phrase means she liked to dampen his spirits and discourage him."
+      },
+      {
+        "id": 23,
+        "correct": false,
+        "correctAnswer": "A",
+        "selectedAnswer": "B",
+        "explanation": "To 'eat your words' means to admit you were wrong after events proved you incorrect. Asuo had made a prediction, but Kotoko lost and proved him wrong. He had to admit his prediction was wrong — he ate his words."
+      },
+      {
+        "id": 24,
+        "correct": false,
+        "correctAnswer": "B",
+        "selectedAnswer": "D",
+        "explanation": "'Paid back in your own coins' means treated in the same bad way you treated others — like the saying 'what goes around comes around'. Since the person was a fraudster who cheated people, he got cheated in return. He was swindled."
+      },
+      {
+        "id": 25,
+        "correct": false,
+        "correctAnswer": "B",
+        "selectedAnswer": "D",
+        "explanation": "To 'hit the nail on the head' means to say exactly the right thing — perfectly accurate. Yaaba's statement about hard work was spot on and exactly true. So the phrase means she told the truth with great accuracy."
+      },
+      {
+        "id": 26,
+        "correct": false,
+        "correctAnswer": "A",
+        "selectedAnswer": "D",
+        "explanation": "'Temporarily' means for a short time only — things will change back later. The opposite is 'permanently', which means forever with no plan to change. If a shop closes temporarily, it will reopen; if permanently, it never reopens."
+      },
+      {
+        "id": 27,
+        "correct": false,
+        "correctAnswer": "A",
+        "selectedAnswer": "C",
+        "explanation": "'Theoretical' means in ideas or on paper — not yet done in real life. The opposite is 'practical', which means doing things for real in the real world. Some exercises look easy when you just read about them but become hard when you actually try."
+      },
+      {
+        "id": 28,
+        "correct": false,
+        "correctAnswer": "A",
+        "selectedAnswer": "C",
+        "explanation": "A 'cure' treats a disease AFTER you already have it. The better option is to stop the disease BEFORE it starts — that is 'prevention'. The opposite of curing is preventing the disease from happening at all, so 'prevent' is the answer."
+      },
+      {
+        "id": 29,
+        "correct": false,
+        "correctAnswer": "B",
+        "selectedAnswer": "D",
+        "explanation": "The sentence talks about something that 'began' and asks where it will end. 'Cease' is the opposite of 'begin' — it means to stop or come to an end. So the missing word is 'cease', meaning where this thing will finally stop."
+      },
+      {
+        "id": 30,
+        "correct": false,
+        "correctAnswer": "B",
+        "selectedAnswer": "C",
+        "explanation": "'Abundant' rainfall means a lot of rain — more than enough. The opposite is 'scanty' moisture, which means very little — barely enough. Regions with plenty of rain are very different from those where water is scarce."
+      },
+      {
+        "id": 31,
+        "correct": false,
+        "correctAnswer": "D",
+        "selectedAnswer": "A",
+        "explanation": "At any formal meeting, the 'attendance list' is the official record that shows who came. A member checking whether their name was correctly written would look at the attendance list — the one that records who was present."
+      },
+      {
+        "id": 32,
+        "correct": true,
+        "correctAnswer": "A",
+        "selectedAnswer": "A",
+        "explanation": "In formal meetings, a 'motion' is a formal proposal that is introduced, discussed, and voted on by members. 'Motions' is the correct meeting vocabulary here. 'Ideas' and 'decisions' are too casual for official meeting language."
+      },
+      {
+        "id": 33,
+        "correct": false,
+        "correctAnswer": "D",
+        "selectedAnswer": "C",
+        "explanation": "In formal meeting language, to 'move' means to formally propose something for the group to agree on. A member 'moves' for the meeting to close. This is official meeting vocabulary — 'recommend' and 'call' do not carry the same formal weight here."
+      },
+      {
+        "id": 34,
+        "correct": false,
+        "correctAnswer": "B",
+        "selectedAnswer": "C",
+        "explanation": "When one person 'moves' a proposal in a formal meeting, another person must 'second' it — meaning they officially support it so it can be discussed and voted on. This is a key step in meeting procedure. 'Seconded' is the correct formal term."
+      },
+      {
+        "id": 35,
+        "correct": false,
+        "correctAnswer": "A",
+        "selectedAnswer": "B",
+        "explanation": "A meeting is 'adjourned' when it officially ends with plans to meet again on another day. This is the correct formal word. 'Postponed' is used when something is pushed to a later time BEFORE it even starts — not after it has already taken place."
+      },
+      {
+        "id": 36,
+        "correct": false,
+        "correctAnswer": "B",
+        "selectedAnswer": "D",
+        "explanation": "The word 'arch' ends with the /tʃ/ sound — like in 'church' or 'match'. 'Patch' also ends with that same /tʃ/ sound. 'Path' ends with a 'th' sound, and 'splash' ends with 'sh' — both different sounds from 'arch'."
+      },
+      {
+        "id": 37,
+        "correct": false,
+        "correctAnswer": "C",
+        "selectedAnswer": "D",
+        "explanation": "The word 'chef' begins with the /ʃ/ sound — like the 'sh' in 'shoe' or 'sheep'. 'Shield' also begins with 'sh', giving it the same /ʃ/ sound. 'Chair' starts with /tʃ/ like 'church', and 'chord' starts with /k/ — both are different sounds."
+      },
+      {
+        "id": 38,
+        "correct": false,
+        "correctAnswer": "D",
+        "selectedAnswer": "C",
+        "explanation": "The word 'sprang' starts with the consonant cluster 'spr' — three sounds together: s, p, r. 'Splashed' starts with 'spl' — also three consonants: s, p, l. Both words start with a three-consonant cluster beginning with 'sp', making their sound patterns similar."
+      },
+      {
+        "id": 39,
+        "correct": true,
+        "correctAnswer": "D",
+        "selectedAnswer": "D",
+        "explanation": "'Whole' is pronounced with the /oʊ/ vowel sound — it rhymes with 'hole' and 'soul'. 'Gaol' is an old spelling of 'jail' and shares that same /oʊ/ vowel sound with 'Whole'. Say them both carefully and you will hear the match."
+      },
+      {
+        "id": 40,
+        "correct": true,
+        "correctAnswer": "C",
+        "selectedAnswer": "C",
+        "explanation": "'Heir' is pronounced exactly like 'air' — the 'h' is completely silent! Say them both: 'heir', 'air' — they sound identical. 'Here' has a different vowel sound /hɪər/, and 'hew' sounds like /hjuː/ — both very different from 'heir'."
+      }
+    ]
+  }
+]

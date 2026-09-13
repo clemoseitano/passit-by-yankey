@@ -1,0 +1,102 @@
+.sidebar-backdrop {
+  position: fixed;
+  top: 60px;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(0, 0, 0, 0.4);
+  z-index: 800;
+}
+
+/* ── Sidebar shell ─────────────────────────────── */
+.sidebar {
+  position: fixed;
+  top: 60px;
+  left: 0;
+  height: calc(100% - 60px);
+  width: 260px;
+  background: var(--primary);
+  z-index: 900;
+  transform: translateX(-100%);
+  transition: transform 0.25s cubic-bezier(0.4, 0, 0.2, 1);
+  overflow-y: auto;
+  display: flex;
+  flex-direction: column;
+}
+
+.sidebar--open {
+  transform: translateX(0);
+  box-shadow: 4px 0 28px rgba(0, 0, 0, 0.18);
+}
+
+/* On desktop, force sidebar visible when on /exam */
+@media (min-width: 768px) {
+  .sidebar--exam {
+    transform: translateX(0) !important;
+    box-shadow: 1px 0 0 rgba(255, 255, 255, 0.08) !important;
+  }
+}
+
+/* ── "In Progress" label shown on exam page ─────── */
+.sidebar-exam-label {
+  padding: 14px 22px 10px;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.sidebar-exam-label span {
+  display: inline-block;
+  font-size: 0.7rem;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--accent);
+  background: rgba(64, 192, 116, 0.15);
+  border-radius: 999px;
+  padding: 3px 10px;
+}
+
+/* ── Nav items ─────────────────────────────────── */
+.sidebar-nav {
+  padding: 12px 0;
+  display: flex;
+  flex-direction: column;
+}
+
+.sidebar-item {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  width: 100%;
+  padding: 13px 22px;
+  background: none;
+  border: none;
+  color: rgba(255, 255, 255, 0.8);
+  font-family: 'Inter', sans-serif;
+  font-size: 0.9375rem;
+  font-weight: 500;
+  cursor: pointer;
+  text-align: left;
+  transition: background 0.12s, color 0.12s;
+}
+
+.sidebar-item:hover {
+  background: rgba(255, 255, 255, 0.1);
+  color: #fff;
+}
+
+/* On exam page, items that trigger warning get a subtle indicator */
+.sidebar-item--exam:nth-child(n+3):hover {
+  background: rgba(255, 255, 255, 0.08);
+}
+
+.sidebar-icon {
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  opacity: 0.7;
+  transition: opacity 0.12s;
+}
+
+.sidebar-item:hover .sidebar-icon {
+  opacity: 1;
+}
