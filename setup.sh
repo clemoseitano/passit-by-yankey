@@ -8,9 +8,9 @@ if ! command -v docker &> /dev/null; then
 fi
 
 echo "Pulling latest image..."
-docker pull ghcr.io/YOUR_GITHUB_USERNAME/passit-app:latest
+docker pull ghcr.io/clemoseitano/passit-app:latest
 
 echo "Starting container..."
-docker run -d --name passit -p 5001:5001 --restart unless-stopped ghcr.io/YOUR_GITHUB_USERNAME/passit-app:latest
+docker run -d --name passit -p 5001:5001 --restart unless-stopped ghcr.io/clemoseitano/passit-app:latest
 
 echo "PassIt is now running at http://localhost:5001"

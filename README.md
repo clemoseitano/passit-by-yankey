@@ -12,5 +12,6 @@ This project uses GitHub Actions to build and push the Docker image to GitHub Co
 ## For Teachers (Deployment)
 1. Ensure the machine has internet access.
 2. Download `setup.sh`.
-3. Run `chmod +x setup.sh` and `./setup.sh`.
-4. Access the app at `http://localhost:5001`.
+3. Ensure you have replaced `YOUR_GITHUB_USERNAME` in `setup.sh` and `docker-compose.yml` with the repository owner's username.
+4. Run `chmod +x setup.sh` and `./setup.sh`.
+5. Access the app at `http://localhost:5001`.
