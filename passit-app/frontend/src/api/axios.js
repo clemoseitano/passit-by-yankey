@@ -1,7 +1,9 @@
 import axios from 'axios';
 
-const api = axios.create({
-  baseURL: 'http://localhost:5001',
+const instance = axios.create({
+    // Use an empty string so the browser uses the current host and port
+    // automatically, allowing the app to work on any network device.
+    baseURL: '' 
 });
 
-export default api;
+export default instance;
